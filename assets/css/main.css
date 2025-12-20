@@ -1466,6 +1466,23 @@ section,
   margin-bottom: 4px;
 }
 
+/* Paginação mais abaixo da caixa */
+.experience .swiper-pagination {
+  margin-top: 30px;
+  position: relative;
+}
+
+.experience .swiper-pagination .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: color-mix(in srgb, var(--default-color), transparent 85%);
+  opacity: 1;
+}
+
+.experience .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: var(--accent-color);
+}
+
 
 
 /* ================================

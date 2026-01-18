@@ -1430,7 +1430,7 @@ section,
 
 /* Logo maior */
 .experience .experience-logo {
-  width: 130px;     /* Ajusta para ficar maior/menor */
+  width: 200px;     /* Ajusta para ficar maior/menor */
   height: auto;
   border-radius: 10px;
 }

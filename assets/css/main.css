@@ -312,18 +312,18 @@ h6 {
   background: var(--nav-hover-color);
 }
 
-.navmenu a:hover,
-.navmenu li:hover>a {
-  max-width: 100%;
-  color: var(--contrast-color);
-}
-
-.navmenu a:hover span,
-.navmenu li:hover>a span {
-  display: block;
-}
-
 @media (max-width: 1199px) {
+  .navmenu a:hover,
+  .navmenu li:hover>a {
+    max-width: 100%;
+    color: var(--contrast-color);
+  }
+
+  .navmenu a:hover span,
+  .navmenu li:hover>a span {
+    display: block;
+  }
+
   .navmenu a,
   .navmenu a:focus {
     color: rgba(255, 255, 255, 0.88);
@@ -2327,5 +2327,48 @@ section,
   .navmenu a,
   .navmenu a:focus {
     background: rgba(0, 35, 65, 0.85);
+  }
+}
+
+/* Fix sidebar nav: icon-only circular buttons (desktop) */
+@media (min-width: 1200px) {
+  .navmenu a,
+  .navmenu a:focus,
+  .navmenu a:hover,
+  .navmenu li:hover > a,
+  .navmenu .active,
+  .navmenu .active:focus {
+    width: 52px;
+    height: 52px;
+    min-width: 52px;
+    max-width: 52px;
+    padding: 0;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .navmenu a i,
+  .navmenu a:focus i {
+    margin: 0;
+    font-size: 20px;
+    line-height: 1;
+  }
+
+  .navmenu a span,
+  .navmenu a:focus span,
+  .navmenu a:hover span,
+  .navmenu li:hover > a span,
+  .navmenu .active span,
+  .navmenu .active:focus span {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    width: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+    padding: 0 !important;
   }
 }

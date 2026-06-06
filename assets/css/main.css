@@ -672,13 +672,6 @@ section,
   color: var(--contrast-color);
 }
 
-.my-simple-portfolio .my-portfolio-item h3,
-.my-simple-portfolio .my-portfolio-item h4 {
-  font-size: 18px;
-  margin-bottom: 6px;
-  color: var(--heading-color);
-}
-
 @media (max-width: 768px) {
   .hero h1,
   .hero h2,
@@ -799,6 +792,16 @@ section,
   background-color: var(--accent-color);
 }
 
+@media (max-width: 991px) {
+  .skills .progress {
+    height: 52px;
+  }
+
+  .skills .progress .skill {
+    font-size: 14px;
+  }
+}
+
 /*--------------------------------------------------------------
 # Resume Section
 --------------------------------------------------------------*/
@@ -910,6 +913,7 @@ section,
   /* Ajuste a cor se quiser */
 }
 
+.my-simple-portfolio .my-portfolio-item h3,
 .my-simple-portfolio .my-portfolio-item h4 {
   font-size: 18px;
   margin-bottom: 6px;
@@ -918,7 +922,27 @@ section,
 
 .my-simple-portfolio .my-portfolio-item p {
   font-size: 14px;
+  margin-bottom: 8px;
   color: color-mix(in srgb, var(--default-color), transparent 50%);
+}
+
+.my-simple-portfolio .portfolio-category {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  color: var(--accent-color);
+  padding: 3px 8px;
+  border-radius: 4px;
+  background: color-mix(in srgb, var(--accent-color), transparent 88%);
+}
+
+@media (max-width: 575px) {
+  .my-simple-portfolio .my-portfolio-item {
+    width: 100%;
+    max-width: 320px;
+  }
 }
 /*--------------------------------------------------------------
 # Services Section

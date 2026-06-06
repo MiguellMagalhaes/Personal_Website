@@ -187,11 +187,6 @@ h6 {
   .header~main {
     margin-left: 160px;
   }
-
-  .header~main .hero {
-    margin-left: -160px;
-    width: calc(100% + 160px);
-  }
 }
 
 .header.header-show {
@@ -574,17 +569,22 @@ section,
   justify-content: center;
   overflow: hidden;
   background-color: var(--primary-color);
+  isolation: isolate;
 }
 
 .hero picture,
 .hero .hero-bg {
   position: absolute;
-  inset: 0;
+  top: 0;
+  left: calc(50% - 50vw);
+  width: 100vw;
+  max-width: 100vw;
+  height: 100%;
+  min-height: 100%;
   z-index: 1;
   display: block;
-  width: 100%;
-  height: 100%;
   margin: 0;
+  pointer-events: none;
 }
 
 .hero picture img,
@@ -592,15 +592,21 @@ section,
   display: block;
   width: 100%;
   height: 100%;
+  min-height: 100vh;
   object-fit: cover;
   object-position: center center;
 }
 
 .hero:before {
   content: "";
-  background: rgba(10, 25, 40, 0.10);
+  background: rgba(0, 15, 35, 0.10);
   position: absolute;
-  inset: 0;
+  top: 0;
+  left: calc(50% - 50vw);
+  width: 100vw;
+  max-width: 100vw;
+  height: 100%;
+  min-height: 100%;
   z-index: 2;
   pointer-events: none;
 }
@@ -1880,6 +1886,11 @@ section,
     margin-bottom: 10px;
   }
 
+  .hero picture img,
+  .hero .hero-bg-img {
+    object-position: center center;
+  }
+
   .hero {
     padding: 120px 20px 80px;
     text-align: center;
@@ -1888,11 +1899,6 @@ section,
   .hero .container {
     padding-left: 16px;
     padding-right: 16px;
-  }
-
-  .hero picture img,
-  .hero .hero-bg-img {
-    object-position: center 18%;
   }
 
   .hero .social-links {
@@ -1968,6 +1974,13 @@ section,
   }
 }
 
+@media (min-width: 1200px) {
+  .hero picture img,
+  .hero .hero-bg-img {
+    object-position: 52% center;
+  }
+}
+
 @media (min-width: 768px) and (max-width: 991px) {
   .skills .skills-content > .col-lg-6 {
     flex: 0 0 50%;
@@ -1989,7 +2002,7 @@ section,
 
   .hero picture img,
   .hero .hero-bg-img {
-    object-position: center 12%;
+    object-position: center center;
   }
 
   .hero .cv-links {

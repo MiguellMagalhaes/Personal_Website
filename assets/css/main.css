@@ -17,33 +17,34 @@
   --nav-font: "Poppins",  sans-serif;
 }
 
-/* Global Colors — navy base + sunset peach accent */
+/* Global Colors — dark navy base + electric blue accent */
 :root {
-  --default-color: #263642;
-  --heading-color: #243447;
+  --default-color: #1a3352;
+  --heading-color: #050D1E;
   --background-color: #ffffff;
-  --surface-color: #f4f8fb;
+  --surface-color: #eef4fc;
   --contrast-color: #ffffff;
-  --muted-color: #5c7285;
+  --muted-color: #5a7290;
 
-  --primary-color: #243447;
-  --secondary-color: #f2a36b;
-  --accent-color: #f2a36b;
+  --primary-color: #050D1E;
+  --secondary-color: #00A8FF;
+  --accent-color: #007BFF;
+  --accent-bright: #00A8FF;
 }
 
 /* Nav Menu Colors */
 :root {
   --nav-color: #ffffff;
-  --nav-hover-color: var(--accent-color);
-  --nav-mobile-background-color: #ffffff;
-  --nav-dropdown-background-color: #f4f8fb;
-  --nav-dropdown-color: #263642;
-  --nav-dropdown-hover-color: var(--accent-color);
+  --nav-hover-color: #00A8FF;
+  --nav-mobile-background-color: #050D1E;
+  --nav-dropdown-background-color: #0a1628;
+  --nav-dropdown-color: #c8d4e4;
+  --nav-dropdown-hover-color: #00A8FF;
 }
 
 /* Color Presets */
 .light-background {
-  --background-color: #f4f8fb;
+  --background-color: #eef4fc;
   --surface-color: #ffffff;
 }
 
@@ -86,7 +87,7 @@ a {
 }
 
 a:hover {
-  color: color-mix(in srgb, var(--accent-color), transparent 25%);
+  color: var(--secondary-color);
   text-decoration: none;
 }
 
@@ -157,6 +158,8 @@ h6 {
 --------------------------------------------------------------*/
 .header {
   color: var(--default-color);
+  background-color: var(--primary-color);
+  border-right: 1px solid color-mix(in srgb, var(--secondary-color), transparent 78%);
   position: fixed;
   top: 0;
   left: 0;
@@ -170,8 +173,6 @@ h6 {
 
 @media (max-width: 1199px) {
   .header {
-    background-color: var(--background-color);
-    border-right: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
     width: 300px;
     left: -100%;
   }
@@ -212,7 +213,7 @@ h6 {
 
 .header .header-toggle:hover {
   color: var(--contrast-color);
-  background-color: color-mix(in srgb, var(--accent-color) 90%, white 15%);
+  background-color: var(--secondary-color);
 }
 
 /*--------------------------------------------------------------
@@ -240,7 +241,7 @@ h6 {
   margin-bottom: 8px;
   font-size: 15px;
   border-radius: 50px;
-  background: color-mix(in srgb, var(--primary-color) 55%, transparent);
+  background: color-mix(in srgb, var(--secondary-color), transparent 84%);
   height: 56px;
   width: 100%;
   overflow: hidden;
@@ -292,8 +293,8 @@ h6 {
 @media (max-width: 1199px) {
   .navmenu a,
   .navmenu a:focus {
-    color: var(--heading-color);
-    background: color-mix(in srgb, var(--primary-color), transparent 92%);
+    color: rgba(255, 255, 255, 0.88);
+    background: color-mix(in srgb, var(--secondary-color), transparent 88%);
   }
 
   .navmenu a:hover,
@@ -361,7 +362,7 @@ h6 {
 
 .footer .social-links a:hover,
 .footer .footer-cv-link:hover {
-  background: var(--heading-color);
+  background: var(--secondary-color);
   color: var(--contrast-color);
   transform: translateY(-2px);
   text-decoration: none;
@@ -577,7 +578,7 @@ section,
 
 .hero:before {
   content: "";
-  background: rgba(10, 25, 40, 0.15);
+  background: rgba(5, 13, 30, 0.18);
   position: absolute;
   inset: 0;
   z-index: 2;
@@ -610,7 +611,7 @@ section,
 .hero p span {
   letter-spacing: 1px;
   color: #ffffff;
-  border-bottom: 2px solid var(--accent-color);
+  border-bottom: 2px solid var(--secondary-color);
 }
 
 .hero .social-links {
@@ -632,7 +633,7 @@ section,
 }
 
 .hero .social-links a:hover {
-  color: var(--accent-color);
+  color: var(--secondary-color);
 }
 
 .hero .cv-links {
@@ -663,9 +664,9 @@ section,
 }
 
 .hero .cv-link:hover {
-  color: var(--accent-color);
-  background: rgba(242, 163, 107, 0.18);
-  border-color: var(--accent-color);
+  color: var(--secondary-color);
+  background: rgba(0, 123, 255, 0.18);
+  border-color: var(--secondary-color);
 }
 
 .skip-link {
@@ -1799,7 +1800,7 @@ section,
   font-size: 14px;
   text-decoration: none;
   transition: transform 0.3s ease, background-color 0.3s ease;
-  box-shadow: 0 4px 14px rgba(242, 163, 107, 0.22);
+  box-shadow: 0 4px 14px rgba(0, 123, 255, 0.28);
 }
 
 .btn-email:hover {

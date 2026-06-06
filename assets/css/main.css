@@ -17,15 +17,18 @@
   --nav-font: "Poppins",  sans-serif;
 }
 
-/* Global Colors */
+/* Global Colors — navy base + sunset peach accent */
 :root {
-  --accent-color: #4f8fcf;
+  --default-color: #263642;
+  --heading-color: #243447;
   --background-color: #ffffff;
-  --default-color: #272829;
-  --heading-color: #45505b;
-  --surface-color: #f8fafc;
+  --surface-color: #f4f8fb;
   --contrast-color: #ffffff;
-  --muted-color: #6c757d;
+  --muted-color: #5c7285;
+
+  --primary-color: #243447;
+  --secondary-color: #f2a36b;
+  --accent-color: #f2a36b;
 }
 
 /* Nav Menu Colors */
@@ -33,14 +36,14 @@
   --nav-color: #ffffff;
   --nav-hover-color: var(--accent-color);
   --nav-mobile-background-color: #ffffff;
-  --nav-dropdown-background-color: #ffffff;
-  --nav-dropdown-color: #272829;
+  --nav-dropdown-background-color: #f4f8fb;
+  --nav-dropdown-color: #263642;
   --nav-dropdown-hover-color: var(--accent-color);
 }
 
 /* Color Presets */
 .light-background {
-  --background-color: #f8fafc;
+  --background-color: #f4f8fb;
   --surface-color: #ffffff;
 }
 
@@ -227,7 +230,7 @@ h6 {
   margin-bottom: 8px;
   font-size: 15px;
   border-radius: 50px;
-  background: rgba(20, 40, 60, 0.55);
+  background: color-mix(in srgb, var(--primary-color) 55%, transparent);
   height: 56px;
   width: 100%;
   overflow: hidden;
@@ -262,7 +265,7 @@ h6 {
 .navmenu .active,
 .navmenu .active:focus {
   color: var(--contrast-color);
-  background: var(--accent-color);
+  background: var(--nav-hover-color);
 }
 
 .navmenu a:hover,
@@ -280,7 +283,7 @@ h6 {
   .navmenu a,
   .navmenu a:focus {
     color: var(--heading-color);
-    background: color-mix(in srgb, var(--accent-color), transparent 92%);
+    background: color-mix(in srgb, var(--primary-color), transparent 92%);
   }
 
   .navmenu a:hover,
@@ -288,7 +291,7 @@ h6 {
   .navmenu .active,
   .navmenu .active:focus {
     color: var(--contrast-color);
-    background: var(--accent-color);
+    background: var(--nav-hover-color);
   }
 }
 
@@ -632,8 +635,8 @@ section,
 }
 
 .hero .cv-link:hover {
-  color: #ffffff;
-  background: color-mix(in srgb, var(--accent-color), transparent 75%);
+  color: var(--accent-color);
+  background: rgba(242, 163, 107, 0.18);
   border-color: var(--accent-color);
 }
 
@@ -788,7 +791,8 @@ section,
   height: 10px;
 }
 
-.skills .progress-bar {
+.skills .progress-bar-wrap .progress-bar,
+.skills .progress .progress-bar {
   width: 1px;
   height: 10px;
   transition: 0.9s;
@@ -879,7 +883,7 @@ section,
 
 .my-simple-portfolio .my-portfolio-item {
   background-color: var(--surface-color);
-  border: 1px solid color-mix(in srgb, var(--accent-color), transparent 80%);
+  border: 1px solid color-mix(in srgb, var(--primary-color), transparent 85%);
   border-radius: 6px;
   text-align: center;
   width: 250px;
@@ -889,8 +893,8 @@ section,
 
 .my-simple-portfolio .my-portfolio-item:hover {
   transform: translateY(-5px);
-  border-color: color-mix(in srgb, var(--accent-color), transparent 45%);
-  box-shadow: 0 8px 24px rgba(79, 143, 207, 0.1);
+  border-color: color-mix(in srgb, var(--accent-color), transparent 35%);
+  box-shadow: 0 8px 24px rgba(36, 52, 71, 0.08);
 }
 
 .my-simple-portfolio .my-portfolio-item a {
@@ -921,13 +925,13 @@ section,
 --------------------------------------------------------------*/
 .services .service-item {
   background-color: var(--surface-color);
-  box-shadow: 0 8px 28px rgba(79, 143, 207, 0.06);
+  box-shadow: 0 8px 28px rgba(36, 52, 71, 0.06);
   height: 100%;
   padding: 60px 30px;
   text-align: center;
   transition: 0.3s;
   border-radius: 5px;
-  border: 1px solid color-mix(in srgb, var(--accent-color), transparent 88%);
+  border: 1px solid color-mix(in srgb, var(--primary-color), transparent 88%);
 }
 
 .services .service-item .icon {
@@ -971,8 +975,8 @@ section,
 }
 
 .services .service-item:hover {
-  box-shadow: 0 10px 32px rgba(79, 143, 207, 0.1);
-  border-color: color-mix(in srgb, var(--accent-color), transparent 70%);
+  box-shadow: 0 10px 32px rgba(36, 52, 71, 0.08);
+  border-color: color-mix(in srgb, var(--accent-color), transparent 40%);
 }
 
 .services .service-item.item-cyan i,
@@ -1496,8 +1500,8 @@ section,
 .experience .experience-slide {
   background: var(--surface-color);
   border-radius: 8px;
-  box-shadow: 0 8px 24px rgba(79, 143, 207, 0.06);
-  border: 1px solid color-mix(in srgb, var(--accent-color), transparent 88%);
+  box-shadow: 0 8px 24px rgba(36, 52, 71, 0.06);
+  border: 1px solid color-mix(in srgb, var(--primary-color), transparent 88%);
   margin-bottom: 20px;
 }
 
@@ -1607,7 +1611,7 @@ section,
   font-size: 14px;
   text-decoration: none;
   transition: transform 0.3s ease, background-color 0.3s ease;
-  box-shadow: 0 4px 14px rgba(79, 143, 207, 0.18);
+  box-shadow: 0 4px 14px rgba(242, 163, 107, 0.22);
 }
 
 .btn-email:hover {

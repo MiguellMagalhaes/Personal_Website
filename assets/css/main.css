@@ -1015,9 +1015,11 @@ section,
   box-shadow: 0 8px 24px rgba(36, 52, 71, 0.08);
 }
 
-.my-simple-portfolio .my-portfolio-item a {
+.my-simple-portfolio .my-portfolio-item a,
+.my-simple-portfolio .my-portfolio-item .my-portfolio-item__content {
   text-decoration: none;
   color: var(--default-color);
+  display: block;
 }
 
 .my-simple-portfolio .my-portfolio-item i {
@@ -1051,6 +1053,15 @@ section,
   padding: 3px 8px;
   border-radius: 4px;
   background: color-mix(in srgb, var(--accent-color), transparent 88%);
+}
+
+.my-simple-portfolio .portfolio-category + .portfolio-category {
+  margin-left: 6px;
+}
+
+.my-simple-portfolio .my-portfolio-item--featured {
+  border: 1px solid color-mix(in srgb, var(--accent-color), transparent 70%);
+  box-shadow: 0 10px 32px rgba(0, 123, 255, 0.12);
 }
 
 .my-simple-portfolio .my-portfolio-item h3 {
@@ -1746,8 +1757,10 @@ section,
 
 /* Logo maior */
 .experience .experience-logo {
-  width: 200px;     /* Ajusta para ficar maior/menor */
+  max-width: 220px;
+  width: 100%;
   height: auto;
+  object-fit: contain;
   border-radius: 10px;
 }
 
@@ -2035,7 +2048,7 @@ section,
   }
 
   .experience .experience-logo {
-    width: 160px;
+    max-width: 160px;
   }
 
   .experience .experience-slide {

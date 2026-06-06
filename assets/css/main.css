@@ -1766,7 +1766,7 @@ section,
 
 /* Menos espaçamento no item: p-3 já reduz a altura */
 .experience .experience-slide {
-  background: var(--surface-color);
+  background: #ffffff;
   border-radius: 8px;
   box-shadow: 0 8px 24px rgba(36, 52, 71, 0.06);
   border: 1px solid color-mix(in srgb, var(--primary-color), transparent 88%);

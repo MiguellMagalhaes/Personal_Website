@@ -144,7 +144,7 @@
   document.addEventListener('scroll', navmenuScrollspy);
 
   const portfolioFilterButtons = document.querySelectorAll('.portfolio-filter-btn');
-  const portfolioItems = document.querySelectorAll('.my-portfolio-item[data-categories]');
+  const portfolioItems = document.querySelectorAll('.portfolio-item[data-categories]');
 
   portfolioFilterButtons.forEach((button) => {
     button.addEventListener('click', () => {

@@ -80,6 +80,11 @@ img {
   height: auto;
 }
 
+.hero picture img,
+.hero .hero-bg-img {
+  max-width: none;
+}
+
 a {
   color: var(--accent-color);
   text-decoration: none;
@@ -569,27 +574,35 @@ section,
   justify-content: center;
   overflow: hidden;
   background-color: var(--primary-color);
-  background-image: url("../img/hero-bg.jpg");
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
 }
 
-@supports (background-image: image-set(url("x.webp") type("image/webp"))) {
-  .hero {
-    background-image: image-set(
-      url("../img/hero-bg.webp") type("image/webp"),
-      url("../img/hero-bg.jpg") type("image/jpeg")
-    );
-  }
+.hero picture,
+.hero .hero-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.hero picture img,
+.hero .hero-bg-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
 }
 
 .hero:before {
   content: "";
-  background: rgba(5, 13, 30, 0.18);
+  background: rgba(10, 25, 40, 0.10);
   position: absolute;
   inset: 0;
   z-index: 2;
+  pointer-events: none;
 }
 
 .hero .container {
@@ -1877,8 +1890,9 @@ section,
     padding-right: 16px;
   }
 
-  .hero {
-    background-position: center 18%;
+  .hero picture img,
+  .hero .hero-bg-img {
+    object-position: center 18%;
   }
 
   .hero .social-links {
@@ -1973,8 +1987,9 @@ section,
     font-size: clamp(1.05rem, 4.2vw, 1.25rem);
   }
 
-  .hero {
-    background-position: center 12%;
+  .hero picture img,
+  .hero .hero-bg-img {
+    object-position: center 12%;
   }
 
   .hero .cv-links {

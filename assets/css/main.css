@@ -67,6 +67,16 @@ body {
   color: var(--default-color);
   background-color: var(--background-color);
   font-family: var(--default-font);
+  overflow-x: clip;
+}
+
+html {
+  overflow-x: clip;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 a {
@@ -174,7 +184,7 @@ h6 {
 
   .header~main .hero {
     margin-left: -160px;
-    width: 100vw;
+    width: calc(100% + 160px);
   }
 }
 
@@ -247,7 +257,7 @@ h6 {
   padding: 0 5px 0 7px;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1200px) {
 
   .navmenu a,
   .navmenu a:focus {
@@ -316,7 +326,7 @@ h6 {
 }
 
 .footer p {
-  font-size: 15;
+  font-size: 15px;
   font-style: italic;
   padding: 0;
   margin: 0 0 30px 0;
@@ -480,7 +490,7 @@ section,
 .section {
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 60px 0;
+  padding: 80px 0;
   overflow: clip;
 }
 
@@ -494,7 +504,7 @@ section,
 }
 
 .section-title h2 {
-  font-size: 32px;
+  font-size: clamp(1.5rem, 4vw, 2rem);
   font-weight: 700;
   margin-bottom: 20px;
   padding-bottom: 20px;
@@ -572,15 +582,17 @@ section,
 .hero h2,
 .hero .hero-title {
   margin: 0;
-  font-size: 64px;
+  font-size: clamp(2rem, 6vw, 4rem);
   font-weight: 700;
+  line-height: 1.1;
   color: #ffffff;
   text-shadow: 0 3px 14px rgba(0, 0, 0, 0.45);
 }
 
 .hero p {
   margin: 5px 0 0 0;
-  font-size: 26px;
+  font-size: clamp(1.05rem, 2.8vw, 1.625rem);
+  line-height: 1.4;
   color: #f2f7fb;
   text-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
 }
@@ -597,10 +609,14 @@ section,
 
 .hero .social-links a {
   font-size: 22px;
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
   color: #ffffff;
   line-height: 1;
-  margin-right: 20px;
+  margin-right: 12px;
   transition: 0.3s;
   text-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
 }
@@ -625,8 +641,10 @@ section,
   text-decoration: none;
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 6px;
-  padding: 6px 10px;
+  min-height: 44px;
+  padding: 8px 12px;
   border-radius: 6px;
   background: transparent;
   border: 1px solid rgba(255, 255, 255, 0.35);
@@ -670,18 +688,6 @@ section,
 .footer-cv-link:hover {
   background: var(--accent-color);
   color: var(--contrast-color);
-}
-
-@media (max-width: 768px) {
-  .hero h1,
-  .hero h2,
-  .hero .hero-title {
-    font-size: 32px;
-  }
-
-  .hero p {
-    font-size: 20px;
-  }
 }
 
 /*--------------------------------------------------------------
@@ -792,16 +798,6 @@ section,
   background-color: var(--accent-color);
 }
 
-@media (max-width: 991px) {
-  .skills .progress {
-    height: 52px;
-  }
-
-  .skills .progress .skill {
-    font-size: 14px;
-  }
-}
-
 /*--------------------------------------------------------------
 # Resume Section
 --------------------------------------------------------------*/
@@ -877,10 +873,9 @@ section,
    Portfolio Simplificado: Caixas com Título, Ícone e Descrição
 ------------------------------------------------------------------ */
 .my-simple-portfolio {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 20px;
-  justify-content: center; /* Alinha ao centro */
   margin-top: 40px;
 }
 
@@ -889,7 +884,8 @@ section,
   border: 1px solid color-mix(in srgb, var(--primary-color), transparent 85%);
   border-radius: 6px;
   text-align: center;
-  width: 250px;
+  width: 100%;
+  min-width: 0;
   padding: 20px;
   transition: 0.3s;
 }
@@ -938,11 +934,9 @@ section,
   background: color-mix(in srgb, var(--accent-color), transparent 88%);
 }
 
-@media (max-width: 575px) {
-  .my-simple-portfolio .my-portfolio-item {
-    width: 100%;
-    max-width: 320px;
-  }
+.my-simple-portfolio .my-portfolio-item h3 {
+  overflow-wrap: anywhere;
+  word-break: normal;
 }
 /*--------------------------------------------------------------
 # Services Section
@@ -1654,4 +1648,353 @@ section,
 /* Efeito de bounce para o fundo */
 .btn-email:hover::before {
   transform: translateY(-5px) scale(1.03);
+}
+
+/*--------------------------------------------------------------
+# Responsive Design
+--------------------------------------------------------------*/
+
+/* Large desktops */
+@media (min-width: 1400px) {
+  .hero .container {
+    max-width: 1140px;
+  }
+
+  .my-simple-portfolio {
+    gap: 24px;
+  }
+}
+
+/* Desktops and laptops */
+@media (max-width: 1199px) {
+  .header .header-toggle {
+    width: 48px;
+    height: 48px;
+    top: 12px;
+    right: 12px;
+  }
+
+  .navmenu ul {
+    width: 100%;
+    max-width: 260px;
+    padding-top: 70px;
+  }
+
+  .navmenu a,
+  .navmenu a:focus {
+    min-height: 48px;
+    height: auto;
+    max-width: none;
+    margin-bottom: 10px;
+  }
+
+  .hero {
+    padding: 120px 20px 80px;
+    text-align: center;
+  }
+
+  .hero .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .hero picture,
+  .hero img {
+    object-position: center 18%;
+  }
+
+  .hero .social-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4px;
+  }
+
+  .hero .cv-links {
+    justify-content: center;
+    gap: 12px;
+  }
+
+  .section-title {
+    padding-bottom: 48px;
+  }
+
+  .section-title h2 {
+    font-size: clamp(1.5rem, 4.5vw, 2rem);
+  }
+}
+
+/* Tablets */
+@media (max-width: 991px) {
+  section,
+  .section {
+    padding: 55px 0;
+  }
+
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .my-simple-portfolio {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+
+  .skills .progress {
+    height: 52px;
+    margin-bottom: 8px;
+  }
+
+  .skills .progress .skill {
+    font-size: 14px;
+  }
+
+  .resume .resume-title {
+    font-size: 22px;
+  }
+
+  .resume .resume-item h4 {
+    font-size: 16px;
+    line-height: 1.35;
+  }
+
+  .services .service-item {
+    padding: 40px 24px;
+  }
+
+  .experience .experience-logo {
+    width: 160px;
+  }
+
+  .experience .experience-slide {
+    padding: 1rem !important;
+  }
+
+  .stats .stats-item span {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .skills .skills-content > .col-lg-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+/* Large phones */
+@media (max-width: 768px) {
+  .hero h1,
+  .hero h2,
+  .hero .hero-title {
+    font-size: clamp(2rem, 9vw, 2.5rem);
+  }
+
+  .hero p {
+    font-size: clamp(1.05rem, 4.2vw, 1.25rem);
+  }
+
+  .hero picture,
+  .hero img {
+    object-position: center 12%;
+  }
+
+  .hero .cv-links {
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .about .content ul li {
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 4px;
+    text-align: left;
+  }
+
+  .about .content ul li span,
+  .about .content ul li a {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  .skills .row {
+    row-gap: 0;
+  }
+
+  .skills .skills-content > .col-lg-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .skills .progress {
+    margin-bottom: 16px;
+  }
+
+  .resume .resume-item {
+    padding-left: 16px;
+  }
+
+  .resume .resume-item h5 {
+    font-size: 14px;
+    padding: 4px 12px;
+  }
+
+  .contact .info-item {
+    padding: 16px;
+  }
+
+  .contact .info-item p,
+  .contact .info-item a {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  .footer h3 {
+    font-size: clamp(1.5rem, 7vw, 2rem);
+  }
+
+  .footer .social-links a {
+    width: 44px;
+    height: 44px;
+    margin: 0 6px;
+  }
+
+  .footer-cv-link {
+    min-height: 44px;
+    margin: 6px 8px;
+  }
+
+  .scroll-top {
+    right: 12px;
+    bottom: 12px;
+  }
+}
+
+/* Small phones */
+@media (max-width: 575px) {
+  section,
+  .section {
+    padding: 45px 0;
+  }
+
+  .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .hero {
+    padding: 110px 16px 70px;
+  }
+
+  .hero h1,
+  .hero h2,
+  .hero .hero-title {
+    font-size: clamp(1.75rem, 8.5vw, 2rem);
+  }
+
+  .hero p {
+    font-size: clamp(1rem, 4vw, 1.125rem);
+  }
+
+  .hero .cv-links {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .hero .cv-link {
+    width: fit-content;
+    min-width: 160px;
+  }
+
+  .my-simple-portfolio {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .my-simple-portfolio .my-portfolio-item {
+    padding: 18px 16px;
+  }
+
+  .my-simple-portfolio .my-portfolio-item i {
+    font-size: 36px;
+  }
+
+  .stats .stats-item span {
+    font-size: 28px;
+  }
+
+  .stats .stats-item p {
+    font-size: 14px;
+  }
+
+  .services .service-item {
+    padding: 32px 20px;
+  }
+
+  .services .service-item h3 {
+    font-size: 19px;
+  }
+
+  .experience .experience-logo {
+    width: 130px;
+  }
+
+  .experience .experience-slide h3 {
+    font-size: 18px;
+  }
+
+  .btn-email span {
+    padding: 12px 22px;
+  }
+
+  .section-title p {
+    font-size: 15px;
+    line-height: 1.6;
+  }
+}
+
+/* Very small phones */
+@media (max-width: 380px) {
+  .hero {
+    padding: 100px 12px 60px;
+  }
+
+  .hero h1,
+  .hero h2,
+  .hero .hero-title {
+    font-size: 1.65rem;
+  }
+
+  .hero .social-links a {
+    min-width: 40px;
+    min-height: 40px;
+    font-size: 20px;
+    margin-right: 6px;
+  }
+
+  .hero .cv-link {
+    font-size: 14px;
+    min-width: 140px;
+    padding: 8px 10px;
+  }
+
+  .header {
+    width: min(100vw, 280px);
+  }
+
+  .navmenu ul {
+    max-width: 100%;
+    padding-top: 60px;
+  }
+
+  .my-simple-portfolio .my-portfolio-item h3,
+  .my-simple-portfolio .my-portfolio-item h4 {
+    font-size: 16px;
+  }
+
+  .resume .resume-item h4 {
+    font-size: 15px;
+  }
 }

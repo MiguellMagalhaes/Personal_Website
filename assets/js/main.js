@@ -142,4 +142,45 @@
 
   window.addEventListener('load', navmenuScrollspy);
   document.addEventListener('scroll', navmenuScrollspy);
+
+  const portfolioFilterButtons = document.querySelectorAll('.portfolio-filter-btn');
+  const portfolioItems = document.querySelectorAll('.my-portfolio-item[data-categories]');
+
+  portfolioFilterButtons.forEach((button) => {
+    button.addEventListener('click', () => {
+      const filter = button.getAttribute('data-filter');
+
+      portfolioFilterButtons.forEach((btn) => {
+        btn.classList.remove('active');
+        btn.setAttribute('aria-selected', 'false');
+      });
+      button.classList.add('active');
+      button.setAttribute('aria-selected', 'true');
+
+      portfolioItems.forEach((item) => {
+        const categories = item.getAttribute('data-categories') || '';
+        const match = filter === 'all' || categories.split(' ').includes(filter);
+        item.classList.toggle('is-hidden', !match);
+      });
+    });
+  });
+
+  const copyEmailBtn = document.querySelector('.btn-copy-email');
+  const copyEmailFeedback = document.querySelector('.copy-email-feedback');
+  const emailAddress = 'miguel.softeng@gmail.com';
+
+  if (copyEmailBtn) {
+    copyEmailBtn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(emailAddress);
+        if (copyEmailFeedback) {
+          copyEmailFeedback.textContent = 'Email copied to clipboard.';
+        }
+      } catch (error) {
+        if (copyEmailFeedback) {
+          copyEmailFeedback.textContent = 'Could not copy email. Please copy manually.';
+        }
+      }
+    });
+  }
 })();

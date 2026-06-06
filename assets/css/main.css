@@ -1773,6 +1773,40 @@ section,
   color: var(--muted-color) !important;
 }
 
+.experience-date {
+  display: inline-block;
+  color: #6f86a2;
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin-bottom: 14px;
+}
+
+.experience-meta {
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.experience-subtitle {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--heading-color);
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+
+.experience .experience-slide ul.experience-list {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 22px;
+  list-style: disc;
+}
+
+.experience .experience-slide ul.experience-list li {
+  margin-bottom: 8px;
+  line-height: 1.6;
+  font-size: 14px;
+}
+
 .experience .experience-slide h5 {
   font-size: 16px;
   font-weight: 600;
@@ -1780,7 +1814,7 @@ section,
 }
 
 .experience .experience-slide ul li {
-  margin-bottom: 4px;
+  margin-bottom: 8px;
 }
 
 /* Paginação mais abaixo da caixa */

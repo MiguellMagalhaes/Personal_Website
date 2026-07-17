@@ -259,7 +259,7 @@ h6 {
 
 .navmenu ul {
   list-style: none;
-  padding: 0 0 20px 0;
+  padding: 0 0 12px 0;
   margin: 0;
   width: 140px;
 }
@@ -271,11 +271,11 @@ h6 {
   display: flex;
   align-items: center;
   padding: 10px 18px;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   font-size: 15px;
   border-radius: 50px;
   background: color-mix(in srgb, var(--secondary-color), transparent 84%);
-  height: 56px;
+  height: 52px;
   width: 100%;
   overflow: hidden;
   transition: 0.3s;
@@ -295,7 +295,10 @@ h6 {
 
   .navmenu a,
   .navmenu a:focus {
-    max-width: 56px;
+    max-width: 48px;
+    height: 48px;
+    margin-bottom: 4px;
+    padding: 8px 14px;
   }
 
   .navmenu a span,
@@ -687,6 +690,17 @@ section,
   text-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
 }
 
+.hero .hero-tagline {
+  margin-top: 14px;
+  max-width: 640px;
+  font-size: clamp(0.9rem, 2vw, 1.05rem);
+  line-height: 1.45;
+  color: rgba(242, 247, 251, 0.88);
+  font-weight: 400;
+  letter-spacing: 0;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
+}
+
 .hero p span {
   letter-spacing: 1px;
   color: #ffffff;
@@ -891,6 +905,17 @@ section,
   margin-bottom: 48px;
 }
 
+.skills-categories {
+  display: grid;
+  gap: 36px;
+}
+
+.skills-category {
+  max-width: 980px;
+  margin: 0 auto;
+  width: 100%;
+}
+
 .skills-subtitle {
   font-size: 22px;
   font-weight: 700;
@@ -909,6 +934,13 @@ section,
 
 .skills-other {
   padding-top: 8px;
+}
+
+.about .about-body {
+  text-align: left;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .skills-tags {
@@ -2390,5 +2422,212 @@ section,
     height: 0 !important;
     overflow: hidden !important;
     padding: 0 !important;
+  }
+}
+
+/*--------------------------------------------------------------
+# Portfolio featured, filters and content cards
+--------------------------------------------------------------*/
+.portfolio-group-title {
+  font-family: var(--heading-font);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--heading-color);
+  margin: 12px 0 24px;
+  text-align: center;
+}
+
+.featured-portfolio {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  margin-bottom: 48px;
+}
+
+.featured-card {
+  background: var(--surface-color);
+  border: 1px solid color-mix(in srgb, var(--primary-color), transparent 88%);
+  border-radius: 8px;
+  padding: 28px 24px;
+  height: 100%;
+}
+
+.featured-card__icon {
+  font-size: 1.75rem;
+  color: var(--accent-color);
+  margin-bottom: 12px;
+}
+
+.featured-card h3 {
+  font-size: 1.2rem;
+  margin: 0 0 8px;
+  color: var(--heading-color);
+  font-family: var(--heading-font);
+}
+
+.featured-card__subtitle {
+  font-style: italic;
+  color: var(--muted-color);
+  margin-bottom: 6px;
+}
+
+.featured-card__context {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--accent-color);
+  margin-bottom: 12px;
+}
+
+.featured-card__tech,
+.featured-card__links {
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+
+.featured-card__links a {
+  color: var(--accent-color);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.featured-card__links a:hover {
+  text-decoration: underline;
+}
+
+.featured-card__tags {
+  margin-top: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.featured-card .portfolio-category,
+.my-simple-portfolio .portfolio-category {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent-color), transparent 88%);
+  color: var(--heading-color);
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.academic-project-filters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 28px;
+}
+
+.academic-project-filter {
+  border: 1px solid color-mix(in srgb, var(--primary-color), transparent 72%);
+  background: var(--surface-color);
+  color: var(--heading-color);
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.academic-project-filter:hover,
+.academic-project-filter.active {
+  background: var(--accent-color);
+  border-color: var(--accent-color);
+  color: #fff;
+}
+
+.my-simple-portfolio .my-portfolio-item.is-hidden {
+  display: none;
+}
+
+.experience .experience-summary,
+.experience .experience-tech,
+.experience .experience-link {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.experience .experience-link a {
+  color: var(--accent-color);
+  font-weight: 600;
+}
+
+.cert-card,
+.research-card,
+.intl-card {
+  background: var(--surface-color);
+  border: 1px solid color-mix(in srgb, var(--primary-color), transparent 88%);
+  border-radius: 8px;
+  padding: 24px;
+  height: 100%;
+}
+
+.cert-card h3,
+.research-card h3,
+.intl-card h3 {
+  font-family: var(--heading-font);
+  font-size: 1.1rem;
+  color: var(--heading-color);
+  margin: 0 0 8px;
+}
+
+.cert-meta,
+.research-meta,
+.intl-meta,
+.research-authors {
+  color: var(--muted-color);
+  margin-bottom: 10px;
+}
+
+.cert-card a {
+  color: var(--accent-color);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.cert-card a:hover {
+  text-decoration: underline;
+}
+
+.research-status {
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+
+.intl-card ul {
+  padding-left: 1.1rem;
+  margin-bottom: 12px;
+}
+
+.intl-card li {
+  margin-bottom: 6px;
+}
+
+.footer .social-links a .orcid-icon {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+@media (max-width: 991px) {
+  .featured-portfolio {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 575px) {
+  .featured-card,
+  .cert-card,
+  .research-card,
+  .intl-card {
+    padding: 20px 16px;
+  }
+
+  .academic-project-filter {
+    font-size: 0.8rem;
+    padding: 7px 12px;
   }
 }

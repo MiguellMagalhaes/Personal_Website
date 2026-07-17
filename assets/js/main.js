@@ -142,4 +142,29 @@
 
   window.addEventListener('load', navmenuScrollspy);
   document.addEventListener('scroll', navmenuScrollspy);
+
+  const copyrightYear = document.querySelector('#copyright-year');
+  if (copyrightYear) {
+    copyrightYear.textContent = String(new Date().getFullYear());
+  }
+
+  const portfolioFilters = document.querySelectorAll('.academic-project-filter');
+  const portfolioItems = document.querySelectorAll('.my-simple-portfolio .my-portfolio-item');
+
+  if (portfolioFilters.length && portfolioItems.length) {
+    portfolioFilters.forEach((button) => {
+      button.addEventListener('click', () => {
+        const filter = button.getAttribute('data-filter');
+
+        portfolioFilters.forEach((item) => item.classList.remove('active'));
+        button.classList.add('active');
+
+        portfolioItems.forEach((item) => {
+          const categories = (item.getAttribute('data-category') || '').split(/\s+/);
+          const matches = filter === 'all' || categories.includes(filter);
+          item.classList.toggle('is-hidden', !matches);
+        });
+      });
+    });
+  }
 })();

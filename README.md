@@ -11,9 +11,12 @@ https://www.miguelangelodiasmagalhaes.online
 - About
 - Skills
 - Resume
-- Portfolio
-- Services
 - Experience
+- Portfolio
+- Certifications
+- Research & Publications
+- International Experience
+- Services
 - Contact
 
 ## Project Structure
@@ -35,8 +38,8 @@ https://www.miguelangelodiasmagalhaes.online
       apple-touch-icon.png
       logos/
     cv/
-      CV_MiguelMagalhaes_PT.pdf
-      CV_MiguelMagalhaes_EN.pdf
+      Miguel_Magalhaes_CV_PT.pdf
+      Miguel_Magalhaes_CV_EN.pdf
     vendor/
 ```
 
@@ -67,8 +70,9 @@ The site is configured for GitHub Pages with a custom domain defined in `CNAME`.
 
 ## Author
 
-Miguel Magalhães
+Miguel Magalhães — Computer Engineering Graduate
 
-- LinkedIn: https://www.linkedin.com/in/miguel-magalhães-059932283/
+- LinkedIn: https://www.linkedin.com/in/miguelsofteng
 - GitHub: https://github.com/MiguellMagalhaes
+- ORCID: https://orcid.org/0009-0003-8218-9483
 - Email: miguel.softeng@gmail.com

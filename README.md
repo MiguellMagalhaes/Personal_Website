@@ -34,7 +34,9 @@ https://www.miguelangelodiasmagalhaes.online
     img/
       hero-bg.webp
       hero-bg.jpg
-      favicon.png
+      favicon.ico
+      favicon-16x16.png
+      favicon-32x32.png
       apple-touch-icon.png
       logos/
     cv/
@@ -50,7 +52,7 @@ https://www.miguelangelodiasmagalhaes.online
 - JavaScript
 - Bootstrap 5
 - AOS
-- Swiper
+- Swiper 12.2.0
 - Typed.js
 - PureCounter
 
@@ -70,7 +72,7 @@ The site is configured for GitHub Pages with a custom domain defined in `CNAME`.
 
 ## Author
 
-Miguel Magalhães — Computer Engineering Graduate
+Miguel Magalhães — Computer Engineering Graduate & Cybersecurity Master's Student
 
 - LinkedIn: https://www.linkedin.com/in/miguelsofteng
 - GitHub: https://github.com/MiguellMagalhaes

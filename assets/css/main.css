@@ -414,6 +414,29 @@ h6 {
   padding-top: 5px;
 }
 
+.footer .footer-legal {
+  margin-top: 12px;
+  font-size: 14px;
+}
+
+.footer .footer-legal a {
+  color: var(--accent-color);
+  font-weight: 500;
+}
+
+.footer .footer-legal a:hover,
+.footer .footer-legal a:focus-visible {
+  color: var(--secondary-color);
+  text-decoration: underline;
+}
+
+.services-disclaimer {
+  margin-top: 12px;
+  margin-bottom: 0;
+  color: var(--muted-color);
+  font-size: 0.92rem;
+}
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/

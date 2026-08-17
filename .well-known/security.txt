@@ -1,0 +1,5 @@
+Contact: mailto:miguel.softeng@gmail.com
+Expires: 2027-08-01T00:00:00Z
+Preferred-Languages: en, pt
+Canonical: https://www.miguelangelodiasmagalhaes.online/.well-known/security.txt
+Policy: https://github.com/MiguellMagalhaes/Personal_Website/security/policy

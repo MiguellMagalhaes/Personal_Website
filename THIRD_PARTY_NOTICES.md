@@ -10,7 +10,7 @@ This static portfolio uses the following third-party components. Full licence te
 - **Location:** <https://bootstrapmade.com/license/> and the header of `assets/css/main.css`
 - **Use:** visual starting point of the homepage layout
 
-The free-licence credit link is not currently present in the HTML footer. Attribution is recorded here, in `assets/css/main.css`, in `assets/js/main.js`, and in the Legal Notice.
+The required free-licence footer credit, “Designed by BootstrapMade”, is displayed on the public website and links to https://bootstrapmade.com/. Attribution is also recorded here, in `assets/css/main.css`, in `assets/js/main.js`, and in the Legal Notice.
 
 ## Bootstrap
 
@@ -59,11 +59,12 @@ The free-licence credit link is not currently present in the HTML footer. Attrib
 
 ## Swiper
 
-- **Version:** 11.2.6
+- **Version:** 12.2.0
 - **Project:** Vladimir Kharlampidi
 - **Licence:** MIT
-- **Location:** <https://github.com/nolimits4web/swiper/blob/master/LICENSE>
-- **Use:** homepage carousels
+- **Location:** <https://github.com/nolimits4web/swiper/blob/master/LICENSE> and `assets/vendor/swiper/LICENSE`
+- **Origin:** official npm package `swiper@12.2.0` from `https://registry.npmjs.org/swiper/-/swiper-12.2.0.tgz`
+- **Use:** Experience carousel on the homepage
 - **Loaded files:** `assets/vendor/swiper/swiper-bundle.min.css`, `assets/vendor/swiper/swiper-bundle.min.js`
 
 ## Roboto

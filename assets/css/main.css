@@ -410,8 +410,26 @@ h6 {
 }
 
 .footer .credits {
-  font-size: 13px;
+  font-size: 14px;
   padding-top: 5px;
+  color: var(--default-color);
+}
+
+.footer .credits a {
+  color: #0056c7;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.footer .credits a:hover,
+.footer .credits a:focus-visible {
+  color: #004199;
+  text-decoration: underline;
+}
+
+.footer .credits a:focus-visible {
+  outline: 2px solid #004199;
+  outline-offset: 3px;
 }
 
 .footer .footer-legal {

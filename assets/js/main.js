@@ -80,7 +80,8 @@
       loop: true,
       typeSpeed: 100,
       backSpeed: 50,
-      backDelay: 2000
+      backDelay: 2000,
+      contentType: 'text'
     });
   }
 
@@ -95,7 +96,7 @@
         return;
       }
 
-      const config = JSON.parse(configElement.innerHTML.trim());
+      const config = JSON.parse(configElement.textContent.trim());
       new Swiper(swiperElement, config);
     });
   }

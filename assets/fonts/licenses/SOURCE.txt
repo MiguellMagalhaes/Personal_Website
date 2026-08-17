@@ -1,0 +1,17 @@
+Font files in this directory tree are the official Google Fonts WOFF2 binaries
+served by fonts.gstatic.com. They were downloaded once for self-hosting and are
+not requested from Google at runtime.
+
+Families and versions (from the official CSS API):
+- Roboto v51 — SIL Open Font License 1.1
+  https://github.com/googlefonts/roboto-classic
+  License: OFL-Roboto.txt
+- Poppins v24 — SIL Open Font License 1.1
+  https://github.com/itfoundry/Poppins
+  License: OFL-Poppins.txt
+- Raleway v37 — SIL Open Font License 1.1
+  Reserved Font Name "Raleway"
+  License: OFL-Raleway.txt
+
+License texts were copied from the official google/fonts repository:
+https://github.com/google/fonts

@@ -1,0 +1,396 @@
+                          Miguel Magalhães
+                           Número de telemóvel: (+351) 918860342
+                           Endereço de email: miguel.softeng@gmail.com
+                           LinkedIn: www.linkedin.com/in/miguelsofteng
+                           Github: https://github.com/MiguellMagalhaes
+                           ORCID: https://orcid.org/0009-0003-8218-9483
+                           Sítio Web: https://www.miguelangelodiasmagalhaes.online
+
+SOBRE MIM
+
+Licenciado em Engenharia Informática e atualmente a frequentar o Mestrado em Cibersegurança e Auditoria de
+Sistemas Informáticos, com formação especializada em Redes e Sistemas Informáticos e experiência prática em
+suporte informático, sistemas, redes e desenvolvimento de software.
+Possuo conhecimentos em Windows, Linux, Active Directory, redes informáticas, Microsoft SQL Server, MySQL,
+Python, PHP, JavaScript, React, APIs REST e Git, adquiridos por meio de experiência profissional, projetos académicos
+e iniciativas internacionais.
+Tenho particular interesse pelas áreas de IT Operations, administração de sistemas, infraestruturas e
+cibersegurança, procurando aprofundar continuamente os meus conhecimentos através de projetos práticos,
+certificações e formação avançada.
+Destaco-me pela capacidade de resolução de problemas, facilidade de adaptação, comunicação com utilizadores
+técnicos e não técnicos e compromisso com a aprendizagem contínua.
+
+
+EXPERIÊNCIA PROFISSIONAL
+
+ Clínica Dr. Luís Couto – Paredes, Portugal
+
+Programador Web Freelancer
+[ 16/05/2026 – 16/08/2026 ]
+     • Desenvolvimento e implementação de uma plataforma full-stack de marcação de consultas.
+     • Desenvolvimento da interface com React, TypeScript, Vite e Tailwind CSS.
+     • Integração de disponibilidade dinâmica, validação de marcações e comunicação com APIs.
+     • Integração de autenticação e operações de base de dados com Supabase.
+     • Implementação de validação de formulários, design responsivo e melhorias de acessibilidade.
+
+Link: https://marcacoes.clinicadrluiscouto.pt
+
+ NewCoffee – Indústria Torrefatora de Cafés, S.A. – Paredes, Portugal
+Sítio Web: https://www.newcoffee.pt/pt/ | Nome da unidade ou departamento: Direção Sistemas de Informação -
+Atividade ou setor: Informação E Comunicação
+Técnico de informática
+[ 28/11/2025 – 02/07/2026 ]
+     • Prestação de suporte técnico de primeira linha a utilizadores de diferentes departamentos e localizações da
+       empresa;
+     • Diagnóstico e resolução de incidentes relacionados com hardware, software, contas, acessos, impressão,
+       conectividade e aplicações empresariais;
+     • Preparação, configuração e manutenção de computadores Windows, portáteis, impressoras, dispositivos
+       móveis e periféricos;
+     • Criação e gestão de contas de utilizador, grupos, permissões e acessos através de Active Directory e sistemas
+       internos;
+     • Apoio a sistemas ERP, aplicações internas, VPN, telefonia e ferramentas utilizadas pelas diferentes áreas da
+       organização;
+
+                                                                                                                 1/7
+    • Registo, acompanhamento e resolução de pedidos e incidentes de suporte técnico;
+    • Gestão e atualização de informação relativa a equipamentos, utilizadores e ativos informáticos;
+    • Apoio à infraestrutura de rede, incluindo resolução de problemas relacionados com DHCP, conectividade e
+      acessos remotos;
+    • Desenvolvimento e manutenção de plataformas e aplicações web internas utilizando React, PHP, JavaScript,
+      Python e Microsoft SQL Server;
+    • Implementação de novas funcionalidades, correção de erros e melhoria de processos internos;
+    • Colaboração com fornecedores externos na resolução de incidentes e manutenção de sistemas e
+      infraestruturas.
+
+ Staples Portugal, S.A. – Ermesinde, Portugal
+Nome da unidade ou departamento: EasyTech - Atividade ou setor: Informação E Comunicação
+Técnico de Suporte Informático — Part-time
+[ 03/02/2025 – 03/08/2025 ]
+    • Diagnóstico e resolução de problemas de hardware, software e periféricos apresentados por clientes e
+      colaboradores;
+    • Apoio técnico a terminais POS e ao software SRDS;
+    • Registo e acompanhamento de incidentes através da plataforma interna;
+    • Comunicação de soluções técnicas de forma clara a utilizadores não técnicos;
+    • Identificação das necessidades técnicas dos clientes e recomendação de soluções tecnológicas adequadas;
+    • Colaboração com as equipas de vendas, atendimento e logística para assegurar níveis de serviço elevados.
+
+ Aquário Eletrónica – Porto, Portugal
+
+Estagiário — Formação em Contexto de Trabalho
+[ 01/02/2024 – 31/07/2024 ]
+    • Desenvolvimento de scripts em Python para web scraping, recolha de dados e automatização de tarefas;
+    • Apoio à administração de Microsoft SQL Server e à integração com o ERP Primavera;
+    • Colaboração em tarefas relacionadas com a infraestrutura de rede local e sistemas informáticos;
+    • Organização de documentação técnica, planeamento de tarefas e elaboração de relatórios semanais;
+    • Colaboração com a equipa técnica na análise e resolução de problemas.
+
+EDUCAÇÃO E FORMAÇÃO
+
+Mestrado em Cibersegurança e Auditoria de Sistemas Informáticos
+Instituto Superior Politécnico Gaya - ISPGAYA [ 2026 – Atual ]
+Cidade: Porto | País: Portugal | Área(s) de estudo: Tecnologias da Informação e Comunicação (TIC) | Nível no
+QEQ: Nível 7 QRQ
+
+Atualmente matriculado no curso, em regime pós-laboral. Duração: 4 semestres (120 ECTS). Curso acreditado pela
+A3ES.
+
+Licenciatura em Engenharia Informática
+Instituto Superior Politécnico Gaya — ISPGAYA [ 2023 – 2026 ]
+Cidade: Vila Nova de Gaia | País: Portugal | Classificação final: 15 | Nível no QEQ: Nível 6 QRQ | Tese:
+Plataforma Integrada de Gestão de Serviços de Tecnologias de Informação
+
+
+    • Desenvolvimento de software e aplicações web;
+    • Redes e segurança informática;
+    • Sistemas operativos e sistemas distribuídos;
+    • Bases de dados e Microsoft SQL Server;
+    • Inteligência artificial e aprendizagem automática;
+    • Programação em Python, Java, JavaScript, PHP e SQL;
+    • Engenharia de software, análise de sistemas e gestão de projetos.
+                                                                                                                 2/7
+Curso Técnico Superior Profissional em Redes e Sistemas Informáticos
+Instituto Superior Politécnico Gaya — ISPGAYA [ 2021 – 2024 ]
+Cidade: Vila Nova de Gaia | País: Portugal | Classificação final: 16 | Nível no QEQ: Nível 5 QRQ
+
+Formação orientada para administração de sistemas, redes informáticas, segurança, bases de dados, programação,
+manutenção de equipamentos e suporte técnico.
+
+REDES E ASSOCIAÇÕES
+
+[ 08/2026 ]
+Ordem dos Engenheiros — Membro efetivo (primeiro ano) Especialidade: Engenharia InformáticaGrau
+profissional: Engenheiro Nível 1Cédula profissional n.º 105204
+Ligação: https://www.ordemengenheiros.pt/
+
+
+PROJETOS
+
+[ 05/2026 – 07/2026 ]
+Plataforma de Marcação de Consultas — Clínica Dr. Luís Couto Desenvolvimento e implementação de uma
+plataforma full-stack de marcação de consultas para um cliente real da área da saúde.
+Principais contribuições:
+     • Desenvolvimento da interface com React, TypeScript, Vite e Tailwind CSS;
+     • Implementação da escolha de consulta, data e horário;
+     • Integração de disponibilidade dinâmica e validação de marcações;
+     • Desenvolvimento de rotas de API para comunicação com sistemas clínicos externos;
+     • Integração de autenticação e base de dados com Supabase;
+     • Configuração de deployment e variáveis de ambiente através da Vercel;
+     • Implementação de validação de formulários, responsividade e melhorias de acessibilidade.
+
+Tecnologias: React, TypeScript, Vite, Tailwind CSS, Supabase, APIs REST, Vercel e Git.
+Ligação: https://marcacoes.clinicadrluiscouto.pt/
+
+[ 01/2026 – 06/2026 ]
+Plataforma ITSM e Gestão de Suporte Técnico — NewCoffee Desenvolvimento de uma plataforma interna para
+gestão de tickets, ativos informáticos, utilizadores, departamentos e indicadores operacionais da Direção de
+Sistemas de Informação.
+Principais contribuições:
+     • Desenvolvimento do frontend em React, Vite, Bootstrap e Chart.js;
+     • Criação de endpoints REST em PHP;
+     • Integração com Microsoft SQL Server;
+     • Implementação de dashboards de tickets, ativos e atividade de suporte;
+     • Apoio à implementação em ambiente Windows Server e IIS.
+
+Tecnologias: React, JavaScript, PHP, REST API, Microsoft SQL Server, Bootstrap, Chart.js, IIS e Git.
+Ligação: https://miguellmagalhaes.github.io/ISPGAYA_PEICE_NewCoffee/
+
+[ 10/2025 – 12/2025 ]
+Sistema de Deteção de Intrusões em Rede Baseado em Inteligência Artificial — Projeto Internacional COIL Pr
+ojeto internacional desenvolvido entre o ISPGAYA, em Portugal, e a FATEC Ipiranga, no Brasil, no âmbito do
+programa Collaborative Online International Learning.
+     • Configuração de ambientes virtuais isolados para realização de testes;
+     • Geração e análise de tráfego de rede;
+     • Captura e análise de pacotes através do Wireshark;
+     • Simulação controlada de atividade maliciosa;
+     • Validação de alertas de deteção de intrusões com Snort;
+     • Aplicação de Python e machine learning à análise de tráfego.
+
+                                                                                                           3/7
+Tecnologias: Virtualização, Wireshark, Snort, Python, redes e machine learning.
+
+[ 06/2025 – 12/2025 ]
+Clash of Eco — Jogo Educativo de Gestão Energética | Erasmus+ BIP 2025 Desenvolvimento de um jogo
+educativo de estratégia sobre comunidades sustentáveis e energeticamente independentes, realizado por uma
+equipa internacional e multidisciplinar no âmbito do Erasmus+ Blended Intensive Programme.
+     • Desenvolvimento de funcionalidades de jogo e interface;
+     • Participação na definição de cenários relacionados com produção, consumo e armazenamento de energia;
+     • Colaboração com estudantes de instituições internacionais;
+     • Aplicação de metodologias de trabalho em equipa, gamificação e gestão de projetos.
+
+Tecnologias: React, TypeScript, Vite, Express, PostgreSQL e Git.
+
+COMPETÊNCIAS
+
+Sistemas
+
+Suporte técnico de 1.ª linha / Linux / Active Directory / diagnóstico e resolução de incidentes / Windows / Microsoft
+365 / configuração de computadores e periféricos / gestão de utilizadores e permissões / suporte de hardware e
+software
+
+Redes e Infraestrutura
+
+VPN / redes LAN / Snort / segmentação de redes / Wireshark / DHCP / troubleshooting de conectividade / Cisco
+Packet Tracer / TCP/IP / DNS / administração de redes
+
+Programação e desenvolvimento
+
+Python / JavaScript / HTML / PHP / Java / React / Vite / Git / APIs GraphQL / GitHub / Bootstrap / Tailwind / CSS
+
+Bases de dados
+
+Microsoft SQL Server / MySQL / PostgreSQL / SQL / modelação e administração básica de bases de dados
+
+Cloud e ferramentas
+
+Supabase / Vercel / IIS / ERP Primavera / sistemas ERP / Chart.js / Docker
+
+Cibersegurança
+
+Segurança de redes / análise de tráfego / deteção de intrusões / gestão de acessos / avaliação de vulnerabilidades
+em ambientes laboratoriais / proteção de dados / hardening básico / gestão e análise de logs
+
+Competências interpessoais
+
+Comunicação / trabalho em equipa / resolução de problemas / adaptação e aprendizagem contínua
+
+CERTIFICAÇÕES
+
+[ Cisco Networking Academy, 03/2026 ]
+Python Essentials 1
+Ligação: https://www.credly.com/badges/6eeaa5c4-c5d9-4886-a3c5-229717506e74/public_url
+
+[ Cisco Networking Academy, 04/2026 ]
+Python Essentials 2
+Ligação: https://www.credly.com/badges/23370cec-20c2-4fec-a2cb-c60739ff1039/public_url
+
+                                                                                                                    4/7
+[ Cisco Networking Academy, 02/2026 ]
+Linux Unhatched
+Ligação: https://www.credly.com/badges/df830f3d-da45-470a-925f-585365be8cc7
+
+[ Cisco Networking Academy & IBM SkillsBuild, 06/2025 ]
+AI Fundamentals
+Ligação: https://www.credly.com/badges/b35a68d0-256e-4702-a60a-bb4d5b24d8aa/public_url
+
+[ Cisco Networking Academy, 06/2025 ]
+Computer Hardware Fundamentals
+Ligação: https://www.credly.com/badges/d8e9b3ae-9796-4e5d-a871-5f5cbd5c5af9
+
+[ ISPGAYA / Erasmus+, 06/2025 ]
+Erasmus+ BIP 2025 Certificate
+
+[ ISPGAYA, 10/2025 ]
+Presenter Certificate — Environmental Footprint Assessment and Mitigation in Generative Artificial
+Intelligence
+
+PUBLICAÇÕES
+
+[2025]
+Environmental Footprint Assessment and Mitigation in Generative Artificial Intelligence Artigo científico sobre
+a avaliação e mitigação da pegada ambiental de modelos de linguagem de grande escala, integrando três dimensões
+principais: consumo de energia, emissões de carbono e utilização de água.O estudo abrange modelos comerciais e
+open source e analisa estratégias de redução do impacto ambiental, incluindo quantização, sparsity e distribuição
+geográfica de cargas computacionais. Aborda também a importância de métricas ambientais normalizadas,
+transparência e auditoria no contexto da inteligência artificial sustentável.Comunicação científica apresentada com
+manuscrito preparado para publicação em atas.
+Trabalho apresentado no ISPGAYA Congress 2025, na sessão de Inteligência Artificial.
+Autores: Miguel Magalhães; Joana Becker Paulo; Catarina Oliveira Lucas; Eric Zanghi | Nome do Jornal: ISPGAYA
+Congress 2025
+Magalhães, M., Becker Paulo, J., Oliveira Lucas, C., & Zanghi, E. (2025). Environmental Footprint Assessment and
+Mitigation in Generative Artificial Intelligence. Communication presented at ISPGAYA Congress 2025, Vila Nova de
+Gaia, Portugal.
+
+[2025]
+Comparative Evaluation of Angular and React in the Context of Web Development and Front-end Security: A
+Systematic Review Revisão sistemática da literatura sobre Angular e React, comparando as duas tecnologias em
+áreas como desempenho, escalabilidade, estrutura, experiência de desenvolvimento, adoção no mercado e
+segurança de aplicações frontend.O estudo foi desenvolvido com base numa metodologia estruturada de revisão
+sistemática, incluindo critérios de inclusão e exclusão, pesquisa em bases de dados da plataforma EBSCOhost,
+organização bibliográfica com Zotero e aplicação do modelo PRISMA 2020.O trabalho analisa ainda mecanismos de
+segurança, vulnerabilidades e boas práticas relacionadas com aplicações modernas desenvolvidas em Angular e
+React.
+
+
+Autores: Carlos Sousa; Miguel Magalhães; Gabriel Rocha; José Monteiro | Nome do Jornal: ISPGAYA Congress 2025
+Sousa, C., Magalhães, M., Rocha, G., & Monteiro, J. (2025). Comparative Evaluation of Angular and React in Web
+Development and Front-end Security. ISPGAYA Congress 2025, Vila Nova de Gaia, Portugal.
+
+COMPETÊNCIAS LINGUÍSTICAS
+
+Língua(s) materna(s): português
+
+
+                                                                                                                   5/7
+Outra(s) língua(s):
+inglês
+COMPREENSÃO ORAL B2 LEITURA B2 ESCRITA B2
+PRODUÇÃO ORAL B2 INTERAÇÃO ORAL B2
+
+Níveis: A1 e A2: Utilizador de base; B1 e B2: Utilizador independente; C1 e C2: Utilizador avançado
+
+CARTA DE CONDUÇÃO
+
+Carta de condução: B
+
+PASSATEMPOS E INTERESSES
+
+Interesses
+     • Cibersegurança;
+     • Administração de Sistemas;
+     • Redes Informáticas;
+     • Desenvolvimento de Software;
+     • Inteligência Artificial;
+     • Aprendizagem Contínua.
+
+
+EXPERIÊNCIA INTERNACIONAL E COLABORAÇÃO ACADÉMICA
+
+[ 09/2025 – 12/2025 ]
+Erasmus+ BIP 2025 — Building Energy-Independent Solutions for Sustainable Communities
+
+Participação num Erasmus+ Blended Intensive Programme dedicado ao desenvolvimento de soluções para
+comunidades sustentáveis e energeticamente independentes, combinando colaboração virtual com uma semana
+intensiva presencial no ISPGAYA.
+
+
+
+• Colaboração numa equipa internacional e multidisciplinar no desenvolvimento do jogo educativo digital Clash of
+Eco;
+
+• Participação na criação de funcionalidades, cenários e mecânicas relacionadas com produção, consumo,
+armazenamento e gestão de energia;
+
+• Aplicação de conceitos de programação, gamificação, sustentabilidade e gestão de projetos;
+
+• Participação em sessões de trabalho em equipa, testes com utilizadores e apresentação final;
+
+• Desenvolvimento de competências de comunicação intercultural, colaboração e resolução de problemas.
+
+
+
+Tecnologias: React, TypeScript, Vite, Express, PostgreSQL e Git.
+
+Reconhecimento académico: 3 ECTS.
+Ligação: https://github.com/MiguellMagalhaes/Clash_Of_Eco
+
+[ 10/2025 – 12/2025 ]
+COIL Portugal–Brasil — Sistema Preditivo para Deteção de Intrusões em Redes
+
+Projeto internacional desenvolvido entre o ISPGAYA, em Portugal, e a FATEC Ipiranga – Centro Paula Souza, no Brasil,
+no âmbito do Collaborative Online International Learning.
+
+
+
+
+                                                                                                                6/7
+• Colaboração numa equipa mista Portugal–Brasil, integrando redes, cibersegurança, análise de dados e machine
+learning;
+
+• Configuração de um laboratório virtual isolado com Kali Linux, Ubuntu Server e VirtualBox;
+
+• Geração de tráfego normal de referência e captura de pacotes com Wireshark e tcpdump;
+
+• Participação em simulações controladas de reconhecimento, força bruta e ataques a aplicações web;
+
+• Configuração e utilização do Snort para deteção de intrusões, geração de alertas e produção de logs estruturados;
+
+• Organização e disponibilização de datasets de rede para pré-processamento, análise exploratória e treino de
+modelos preditivos;
+
+• Colaboração na avaliação de modelos como KNN, SVM, árvores de decisão e Random Forest;
+
+• Preparação e apresentação dos resultados finais perante estudantes e docentes das duas instituições.
+
+
+
+Ferramentas: Wireshark, tcpdump, Nmap, Snort, Kali Linux, Ubuntu Server, VirtualBox, Python, pandas, NumPy,
+Matplotlib, Scikit-learn, Google Colab e Microsoft Teams.
+
+[ 09/2024 – 10/2024 ]
+Erasmus+ Games for Goals — Educational Board Game Design
+
+Participação numa mobilidade Erasmus+ presencial em Nordhausen, Alemanha, dedicada à criação de um jogo
+educativo de tabuleiro para crianças entre os 8 e os 10 anos.
+
+
+
+• Colaboração numa equipa internacional, multicultural e multidisciplinar;
+
+• Conceção de um jogo print-and-play relacionado com os Direitos da Criança e os Objetivos de Desenvolvimento
+Sustentável das Nações Unidas;
+
+• Desenvolvimento de cenários educativos, cartões de tarefas e ações, regras e materiais de apoio;
+
+• Participação na definição de uma dinâmica colaborativa, incentivando os jogadores a resolver desafios e tomar
+decisões em equipa;
+
+• Abordagem de temas como inclusão, igualdade, educação, bem-estar, privacidade e proteção contra a violência;
+
+• Desenvolvimento de competências de criatividade, comunicação intercultural, trabalho em equipa e resolução de
+problemas.
+
+
+
+
+                                                                                                                  7/7
+

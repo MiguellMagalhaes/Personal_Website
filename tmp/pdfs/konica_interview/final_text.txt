@@ -1,0 +1,1247 @@
+ENTREVISTA • 15 SETEMBRO 2026 • 11:00
+
+
+
+Guia de preparação
+IT Service Desk Junior
+Konica Minolta Business Solutions Portugal
+
+
+
+
+  OBJETIVO
+  Entrar na entrevista com uma mensagem clara: tens experiência prática de suporte, fundamentos sólidos,
+  método, responsabilidade e capacidade para aprofundar L2, Microsoft 365 e Intune sem exagerar o que ainda
+  não fizeste em produção.
+
+
+
+
+  FORMATO                                   FUNÇÃO                                     LOCAL
+
+
+  Entrevista                                1.ª e 2.ª linha                            Presencial / cliente
+
+
+
+
+Miguel Magalhães
+Engenharia Informática • Redes e Sistemas • Suporte Técnico
+
+Não memorizes frases palavra por palavra. Memoriza a estrutura, os factos e dois ou três exemplos reais.
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                                       GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 01
+
+Estratégia de entrevista
+O mapa mental que deve orientar todas as respostas.
+
+
+  A TUA PROPOSTA DE VALOR EM UMA FRASE
+   Sou um profissional júnior com experiência real de suporte a utilizadores, Windows, Active Directory,
+   equipamentos, conectividade e tickets; investigo de forma estruturada, documento bem, respeito segurança e
+   tenho base técnica para aprofundar L2, Microsoft 365 e Intune rapidamente.
+
+
+As quatro mensagens que o entrevistador deve reter
+1. Já fizeste suporte real. NewCoffee, Staples e estágio deram-te contacto com utilizadores, equipamentos,
+   contas, acessos, impressão, conectividade e aplicações.
+2. Não és apenas reativo. Criaste uma plataforma interna de ITSM e valorizas tickets completos, documentação,
+   indicadores e melhoria de processos.
+3. Trabalhas com método e segurança. Primeiro defines impacto e âmbito, recolhes evidência, testas por
+   camadas, validas, documentas e escalas com contexto.
+4. És honesto sobre as lacunas. Não apresentas Intune nem administração avançada de Microsoft 365 como
+   experiência de produção; mostras conhecimento conceptual e aprendizagem rápida.
+
+Como responder bem
+ Tipo de pergunta                     Estrutura recomendada
+
+ Sobre ti / motivação                 Presente -> experiência relevante -> prova -> razão para esta função.
+
+ Experiência                          Situação -> tarefa -> ações concretas -> resultado verdadeiro -> aprendizagem.
+
+ Cenário técnico                      Âmbito/impacto -> evidência -> hipóteses por camadas -> testes -> correção segura ->
+                                      validação/documentação.
+
+ Ferramenta desconhecida              Admitir limite -> explicar finalidade/conceitos -> descrever abordagem de aprendizagem e
+                                      investigação.
+
+ Salário / prevenção                  Clarificar pacote e regras -> falar em bruto anual/base -> separar disponibilidade de
+                                      intervenções.
+
+
+Regra de ouro
+
+   Sê específico sem inventar. É mais forte dizer «usei Active Directory para operações básicas de contas, grupos
+   e permissões» do que dizer apenas «domino AD». É mais credível dizer «ainda não administrei Intune
+   autonomamente em produção» do que tentar parecer sénior.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                            p. 2
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                                    GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 02
+
+Leitura da vaga e compatibilidade
+O anúncio pede um júnior operacional, rigoroso e orientado para o utilizador.
+
+
+ Necessidade da vaga               A tua evidência                                    Como posicionar
+
+ Background em IT                  Licenciatura em Engenharia Informática; CTeSP      Correspondência forte.
+                                   em Redes e Sistemas; mestrado pós-laboral em
+                                   Cibersegurança.
+
+ 1+ ano em suporte                 NewCoffee, Staples e estágio com tarefas de        Explicar cronologia e tarefas, sem somar
+                                   suporte e sistemas.                                experiências como se fossem todas
+                                                                                      full-time.
+
+ Windows / hardware                Preparação e suporte de desktops, laptops,         Usar um incidente real.
+                                   impressoras, periféricos e equipamentos Windows.
+
+ Active Directory                  Operações de contas, grupos, permissões e          Dizer «operações básicas/práticas», não
+                                   acessos na NewCoffee.                              arquitetura avançada.
+
+ Microsoft 365                     Contacto com ambientes e ferramentas Microsoft;    Mostrar método; não reclamar
+                                   base de troubleshooting.                           administração avançada se não ocorreu.
+
+ Ticketing / SLA / KB              Atendimento e acompanhamento de pedidos;           Excelente diferenciador.
+                                   plataforma interna de ITSM; documentação
+                                   técnica.
+
+ TCP/IP, DNS, DHCP                 CTeSP em redes; troubleshooting de DHCP, VPN,      Explicar diagnóstico por testes
+                                   conectividade e acesso remoto.                     progressivos.
+
+ MFA / phishing / passwords        Formação em redes e cibersegurança; mestrado       Ligar sempre a identidade, autorização e
+                                   em curso.                                          evidência.
+
+ Intune                            Conhecimento conceptual, sem administração         Lacuna assumida + plano de
+                                   autónoma confirmada em produção.                   aprendizagem.
+
+ On-call 24/7                      Disponibilidade não deve ser presumida.            Confirmar apenas se for verdade; pedir
+                                                                                      regras, volume, escalamento e
+                                                                                      compensação.
+
+ Inglês / condução                 Inglês B2; carta de condução B.                    Preparar apresentação e resposta técnica
+                                                                                      curta em inglês.
+
+
+  AVALIAÇÃO HONESTA
+   Tens boa adequação a uma função júnior de Service Desk. A entrevista deverá testar menos «conhecimento
+   enciclopédico» e mais: método de diagnóstico, comunicação, segurança, qualidade do ticket, autonomia
+   responsável e reação à prevenção.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                          p. 3
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                           GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 03
+
+Konica Minolta: o que saber
+Pesquisa orientada para a função - não é apenas uma empresa de impressão.
+
+
+
+Mensagem curta sobre a empresa
+
+   Sei que a Konica Minolta nasceu da área de imagem e impressão, mas hoje a operação portuguesa é muito
+   mais ampla: Digital Workplace, infraestrutura e cloud, Managed Services, BPO, segurança e automação. A área
+   de serviços de IT acompanha ambientes de clientes, utiliza SLAs e valoriza suporte, monitorização,
+   documentação e melhoria contínua.
+
+
+Factos úteis
+• A empresa apresenta-se como fornecedora global de serviços de IT e processos documentais, com soluções de
+  Digital Workplace, cloud, infraestrutura, segurança, automação e gestão da informação.
+• Os Managed IT Services incluem manutenção de PCs e servidores, suporte a utilizadores, monitorização e
+  remediação 24/7, administração alinhada com ITIL e SLAs.
+• No modelo BPO, equipas dedicadas trabalham no ambiente do cliente; são acompanhados indicadores como
+  tempo de resposta, resolução de tickets e cumprimento de SLA.
+• Em Portugal, a organização comunica cerca de 200 colaboradores e escritórios em Lisboa, Porto, Coimbra e
+  Faro; refere também cinco anos consecutivos entre as 100 melhores empresas para trabalhar.
+• Valores oficiais: abertura e honestidade, foco no cliente, inovação, paixão, inclusão/colaboração e
+  responsabilidade.
+
+Porque queres trabalhar aqui?
+Resposta modelo
+
+  RESPOSTA EM PORTUGUÊS
+   Esta oportunidade interessa-me porque junta suporte de primeira e segunda linha, contacto direto com
+   utilizadores, ambiente Microsoft, redes, documentação e melhoria contínua. Gosto também da transformação
+   da Konica Minolta numa empresa de Digital Workplace e serviços de IT. Vejo aqui um contexto estruturado,
+   com acompanhamento e plano de evolução, no qual posso contribuir desde cedo e aprofundar competências em
+   Microsoft 365, Intune e suporte L2.
+
+
+  ANSWER IN ENGLISH
+   This opportunity interests me because it combines first- and second-line support, direct user contact, Microsoft
+   environments, networking, documentation and continuous improvement. I am also interested in Konica
+   Minolta's evolution into a Digital Workplace and IT services provider. I see a structured environment where I
+   can contribute from the beginning while developing deeper Microsoft 365, Intune and L2 support skills.
+
+
+  PERGUNTA IMPORTANTE
+   Como o anúncio diz «para alocar ao nosso cliente», pergunta qual é o setor, a localização concreta, a dimensão
+   da equipa, quem define prioridades e como funciona o acompanhamento entre o cliente e a Konica Minolta.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                    p. 4
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                          GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 04
+
+A tua apresentação
+Objetivo: 75-90 segundos, segura, natural e ligada à vaga.
+
+
+Fala-me um pouco sobre ti / Tell me about yourself
+
+  RESPOSTA EM PORTUGUÊS
+   Sou licenciado em Engenharia Informática e tenho também um CTeSP em Redes e Sistemas Informáticos.
+   Atualmente frequento um mestrado em Cibersegurança e Auditoria de Sistemas Informáticos, em regime
+   pós-laboral. A minha experiência combina suporte técnico, sistemas, redes e desenvolvimento. Na NewCoffee
+   prestei suporte de primeira linha a diferentes departamentos e localizações, resolvendo incidentes relacionados
+   com Windows, equipamentos, contas, permissões, VPN, DHCP, conectividade, impressão e aplicações
+   empresariais. Trabalhei também com Active Directory, inventário e articulação com fornecedores externos.
+   Antes disso, tive experiência de suporte na Staples. Desenvolvi ainda uma plataforma interna de ITSM para
+   tickets, ativos, utilizadores e indicadores. Procuro agora consolidar a minha carreira em Service Desk,
+   aprofundar o suporte de primeira e segunda linha e contribuir para um serviço organizado, seguro e orientado
+   para o utilizador.
+
+
+  ANSWER IN ENGLISH
+   I hold a Bachelor's degree in Computer Engineering and a higher technical qualification in Computer Networks
+   and Systems. I am currently pursuing a Master's degree in Cybersecurity and Computer Systems Auditing
+   through an evening programme. My experience combines technical support, systems, networking and
+   development. At NewCoffee, I provided first-line support across different departments and company locations,
+   handling incidents involving Windows, equipment, accounts, permissions, VPN, DHCP, connectivity, printing and
+   business applications. I also worked with Active Directory, IT asset management and external IT providers.
+   Before that, I gained additional support experience at Staples. I also developed an internal ITSM platform for
+   tickets, assets, users and operational indicators. I am now looking to consolidate my career in Service Desk,
+   deepen my L1 and L2 support experience and contribute to a structured, secure and user-focused service.
+
+
+
+Versão de 30 segundos
+
+  PORTUGUÊS
+   Sou licenciado em Engenharia Informática, com formação adicional em Redes e Sistemas e experiência prática
+   em suporte a utilizadores, Windows, Active Directory, equipamentos, conectividade e tickets. Na NewCoffee
+   apoiei diferentes departamentos e localizações e articulei incidentes mais complexos com fornecedores. Procuro
+   agora aprofundar Service Desk L1/L2 num ambiente estruturado como o da Konica Minolta.
+
+
+  ENGLISH
+   I am a Computer Engineering graduate with additional training in Networks and Systems and hands-on
+   experience supporting users, Windows devices, Active Directory, connectivity and tickets. At NewCoffee, I
+   supported different departments and locations and coordinated more complex issues with external providers. I
+   am now looking to deepen my L1/L2 Service Desk experience in a structured environment such as Konica
+   Minolta.
+
+
+Entrega
+• Fala devagar; faz uma pausa curta entre formação, experiência e motivação.
+• Não enumeres todas as tecnologias do CV. Escolhe apenas as que a vaga pede.
+• Termina no futuro: o que procuras e como podes contribuir.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                p. 5
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                         GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 05
+
+Perguntas de RH e motivação
+Respostas prontas, mas ajustáveis ao tom da conversa.
+
+
+Porque devemos contratar-te? / Why should we hire you?
+
+  RESPOSTA EM PORTUGUÊS
+   Porque reúno a base técnica necessária, experiência real de contacto com utilizadores e uma forma estruturada
+   de investigar problemas. Já trabalhei com Windows, Active Directory, equipamentos, aplicações, redes e
+   tickets, e sei comunicar com utilizadores e fornecedores. Também tenho iniciativa para documentar e melhorar
+   processos, como demonstrei ao desenvolver uma plataforma interna de ITSM. Não afirmo dominar todas as
+   ferramentas da vaga, nomeadamente o Intune em produção, mas tenho as bases e a capacidade de
+   aprendizagem necessárias para evoluir rapidamente.
+
+
+  ANSWER IN ENGLISH
+   You should hire me because I combine the required technical foundation with real end-user support experience
+   and a structured troubleshooting approach. I have worked with Windows, Active Directory, equipment,
+   applications, networking and tickets, and I am comfortable communicating with users and external providers. I
+   also take initiative to document and improve processes, as demonstrated by the internal ITSM platform I
+   developed. I would not claim production-level expertise in every tool, particularly Intune, but I have the
+   foundations and learning ability to become productive quickly.
+
+
+Qual é uma lacuna tua para esta função?
+
+  RESPOSTA EM PORTUGUÊS
+   Ainda não administrei Microsoft Intune de forma autónoma num ambiente empresarial de produção. Conheço a
+   finalidade da plataforma - gestão de dispositivos, políticas, aplicações e conformidade - e tenho experiência
+   relacionada com Windows, utilizadores, equipamentos e segurança. Quero transformar essa base em
+   experiência prática através da formação e dos procedimentos da equipa.
+
+
+  ANSWER IN ENGLISH
+   I have not yet independently administered Microsoft Intune in an enterprise production environment. I
+   understand its purpose, including device management, policies, application deployment and compliance, and I
+   have related experience with Windows, users, equipment and security. I want to turn that foundation into
+   hands-on experience through training and the team's procedures.
+
+
+Como lidas com um utilizador frustrado?
+
+  RESPOSTA EM PORTUGUÊS
+   Escuto sem interromper, reconheço o impacto do problema e recolho factos concretos. Explico o que vou
+   verificar, evito prometer um prazo que não consigo garantir e mantenho o utilizador informado. Mesmo quando
+   não consigo resolver imediatamente, assumo o acompanhamento e comunico claramente o próximo passo.
+
+
+  ANSWER IN ENGLISH
+   I listen without interrupting, acknowledge the impact and collect objective information. I explain what I will
+   check, avoid promising a deadline I cannot guarantee and keep the user informed. Even when I cannot resolve
+   the issue immediately, I take ownership of the follow-up and communicate the next step clearly.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                  p. 6
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                              GUIÃO DE ENTREVISTA
+
+
+
+
+Como geres várias solicitações?
+
+  RESPOSTA EM PORTUGUÊS
+   Priorizo por impacto, urgência, risco de segurança, criticidade do serviço e SLA, e não apenas pela ordem de
+   chegada. Confirmo se existe um incidente generalizado, comunico expectativas, mantenho os tickets
+   atualizados e reavalio prioridades quando surge nova informação.
+
+
+  ANSWER IN ENGLISH
+   I prioritise according to impact, urgency, security risk, service criticality and SLA, rather than simply following
+   the order of arrival. I check for a widespread incident, communicate expectations, keep tickets updated and
+   reassess priorities when new information becomes available.
+
+GUIÃO 06
+
+Perguntas pessoais delicadas
+Prepara factos; não improvises justificações que possam contradizer o CV.
+
+
+
+Porque saíste da NewCoffee / Staples / estágio?
+
+  REGRA
+   Usa apenas o motivo verdadeiro. Responde em três partes: facto breve, aprendizagem positiva e ligação ao
+   próximo passo. Exemplo de estrutura: «A colaboração terminou por [motivo real]. Foi uma experiência
+   importante porque [aprendizagem]. Agora procuro [função estável/Service Desk/L1-L2]». Não critiques
+   pessoas nem reveles informação confidencial.
+
+
+O mestrado interfere com o horário?
+
+  RESPOSTA
+   O mestrado decorre em regime pós-laboral e organizei-o precisamente para ser compatível com uma função
+   full-time. Consigo gerir as duas responsabilidades com planeamento. Se existir prevenção, quero apenas
+   conhecer a escala para me organizar antecipadamente.
+
+
+Disponibilidade para começar
+
+  RESPOSTA SEGURA
+   Tenho interesse em iniciar assim que for possível, respeitando o processo e a data acordada. Posso confirmar
+   uma data concreta depois de compreender as etapas seguintes.
+
+   Não inventes disponibilidade imediata se tiveres compromissos que a impeçam.
+
+
+Carta de condução
+
+  RESPOSTA
+   Sim, tenho carta de condução válida, categoria B.
+
+
+Três forças que podes defender
+• Método de troubleshooting: defines âmbito, testas hipóteses e documentas.
+• Comunicação: ajustas a linguagem ao utilizador e acompanhas até à validação.
+• Iniciativa: além do suporte, criaste uma plataforma de ITSM e procuraste melhorar organização e visibilidade.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                       p. 7
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                                      GUIÃO DE ENTREVISTA
+
+
+
+
+Uma fraqueza bem escolhida
+
+   Por vezes tenho tendência a querer compreender o problema com bastante detalhe. Tenho aprendido a
+   equilibrar profundidade com impacto e SLA: primeiro restauro o serviço de forma segura, depois aprofundo a
+   causa quando o contexto o permite.
+
+GUIÃO 07
+
+Método universal de troubleshooting
+Serve para quase todos os cenários técnicos da entrevista.
+
+
+ Passo            O que fazer                                                                 O que demonstra
+
+ 1. Acolher       Confirmar utilizador, contacto e impacto; reconhecer urgência sem           Comunicação e ownership.
+                  prometer o impossível.
+
+ 2. Definir       Um utilizador, vários, uma localização ou serviço global? Quando            Prioridade e raciocínio.
+ âmbito           começou? Houve alterações?
+
+ 3. Recolher      Mensagem exata, hora, equipamento, screenshots/logs, configuração e         Precisão.
+ evidência        passos de reprodução.
+
+ 4. Isolar por    Hardware -> Windows -> rede -> identidade/permissões ->                     Método.
+ camadas          aplicação/serviço.
+
+ 5. Testar        Uma alteração de cada vez; começar por ações de baixo risco e               Segurança operacional.
+                  reversíveis.
+
+ 6. Resolver /    Aplicar correção autorizada ou workaround seguro; não mascarar risco        Eficiência.
+ contornar        de segurança.
+
+ 7. Validar       Confirmar com o utilizador e, se aplicável, verificar logs/monitorização.   Qualidade.
+
+ 8.               Sintomas, testes, resultados, causa, resolução e próximo passo; escalar     Continuidade e colaboração.
+ Documentar       antes do SLA estar em risco.
+ / escalar
+
+
+Resposta universal
+
+  RESPOSTA EM PORTUGUÊS
+   Começo por confirmar o impacto e o âmbito: um utilizador, vários utilizadores ou todo o serviço. Recolho a
+   mensagem de erro, quando começou e alterações recentes. Tento reproduzir, verifico primeiro as causas mais
+   simples e depois avanço por camadas: equipamento, sistema operativo, rede, identidade e aplicação. Consulto
+   logs quando aplicável, faço uma alteração controlada de cada vez e valido o resultado com o utilizador. No final,
+   documento sintomas, testes, causa, resolução e medidas preventivas. Se ultrapassar o meu nível de acesso ou
+   conhecimento, escalo com toda a evidência recolhida.
+
+
+  ANSWER IN ENGLISH
+   I first confirm the impact and scope: one user, several users or the entire service. I collect the exact error,
+   when it started and any recent changes. I try to reproduce the issue, check the simplest causes first and then
+   work through the layers: equipment, operating system, network, identity and application. I review logs when
+   relevant, make one controlled change at a time and validate the result with the user. Finally, I document the
+   symptoms, tests, cause, resolution and preventive actions. If the issue exceeds my access or knowledge level, I
+   escalate it with all the evidence collected.
+
+
+  ERRO A EVITAR
+   Nunca respondas apenas «reiniciava o computador». Um reinício pode ser um teste legítimo, mas explica
+   primeiro o âmbito, a hipótese que estás a testar, o impacto e a validação posterior.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                          p. 8
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                                  GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 08
+
+Ticketing, SLA, prioridade e Knowledge Base
+Esta área liga diretamente a vaga à tua plataforma interna de ITSM.
+
+
+
+O que é um SLA?
+Um Service Level Agreement define níveis e tempos esperados, como resposta, atualização e resolução. Cumprir
+SLA não é apenas «fechar depressa»: exige classificação correta, prioridade por impacto e urgência,
+comunicação, escalamento atempado e registos completos.
+
+Como priorizar
+ Prioridade             Exemplo                                                      Ação
+
+ P1 - Crítica           Serviço essencial indisponível para muitos utilizadores ou   Resposta imediata, comunicação
+                        incidente grave de segurança.                                frequente, escalamento e coordenação.
+
+ P2 - Alta              Função importante afetada, sem alternativa adequada,         Diagnóstico rápido e escalamento antes
+                        impacto relevante.                                           do risco de incumprimento.
+
+ P3 - Média             Um utilizador afetado, trabalho condicionado, workaround     Tratar dentro do SLA e manter o
+                        possível.                                                    utilizador informado.
+
+ P4 - Baixa /           Pedido planeado, informação ou melhoria sem impacto          Agendar e executar com aprovação.
+ pedido                 imediato.
+
+
+O que deve conter um bom ticket
+• Utilizador, contacto, equipamento, localização, data e hora.
+• Serviço afetado, sintomas, mensagem de erro exata, impacto e prioridade.
+• Alterações recentes, passos para reproduzir, testes efetuados e resultados.
+• Comunicações, aprovações, causa quando conhecida, resolução/workaround e validação final.
+
+Quando escalar
+Quando faltam permissões ou conhecimento, existe risco elevado, segurança, impacto alargado, dependência de
+fornecedor, mudança não autorizada ou risco de incumprir SLA. O escalamento deve levar contexto, e não
+apenas «não funciona».
+
+Knowledge Base
+Título pesquisável; sintomas e âmbito; causa conhecida; pré-requisitos; passos numerados; evidência;
+validação; rollback e riscos; data/versão. Outro técnico deve conseguir repetir a solução sem depender da tua
+memória.
+
+  A TUA PROVA
+   A plataforma ITSM que desenvolveste centralizava tickets, ativos, utilizadores, departamentos e indicadores.
+   Usa-a para demonstrar que compreendes o processo, não apenas a ferramenta.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                            p. 9
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                                     GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 09
+
+Windows, hardware e periféricos
+Diagnosticar é isolar a camada com evidência.
+
+
+
+Ferramentas Windows úteis
+ Ferramenta                            Serve para
+
+ Task Manager                          Processos, recursos, arranque, aplicações bloqueadas e utilização anormal.
+
+ Event Viewer                          Eventos de aplicação, sistema, segurança e códigos de erro com data/hora.
+
+ Reliability Monitor                   Histórico visual de falhas, atualizações e alterações.
+
+ Device Manager                        Estado de hardware, drivers, códigos de erro e dispositivos desconhecidos.
+
+ Services                              Estado e arranque de serviços, por exemplo Print Spooler.
+
+ Windows Update                        Patches, reinícios pendentes, drivers e falhas de atualização.
+
+ Disk / storage                        Espaço livre, saúde, permissões e risco antes de alterações.
+
+
+Cenário: monitor na docking station sem imagem
+Confirmar alimentação da dock, cabos, entrada selecionada e deteção no Windows. Testar outro cabo, porta e
+monitor; ligar diretamente ao portátil; verificar drivers/firmware. O objetivo é distinguir monitor, cabo, porta,
+dock, driver ou computador.
+
+Cenário: computador não arranca
+Verificar alimentação, carregador, bateria, cabos e indicadores; retirar periféricos; identificar se existe POST, se
+chega ao Windows e se há código de erro. Usar diagnóstico do fabricante ou recuperação do Windows,
+protegendo dados antes de ações com risco.
+
+Cenário: impressora não imprime
+Determinar se afeta um utilizador ou todos; verificar estado físico/rede, fila, impressora predefinida, trabalhos
+bloqueados e serviço de spooler; confirmar IP, conectividade e driver; imprimir página de teste; escalar falha
+física com evidência.
+
+Cenário: Windows bloqueia repetidamente
+Recolher código/hora, alterações recentes, Event Viewer e Reliability Monitor; verificar atualizações, drivers,
+espaço e integridade; testar correção controlada; avaliar impacto e dados antes de rollback ou recuperação.
+
+  FRASE FORTE
+   Tentaria reproduzir e comparar com um equipamento funcional. Faria uma alteração de cada vez para saber
+   qual hipótese foi confirmada, e validaria o resultado antes de fechar o ticket.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                         p. 10
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                                    GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 10
+
+Redes: o essencial para Service Desk
+Explica o que cada teste prova; não recites comandos sem objetivo.
+
+
+ Conceito                         Definição prática
+
+ TCP/IP                           Conjunto base de protocolos que permite comunicação entre dispositivos em rede.
+
+ DHCP                             Atribui automaticamente IP, máscara, gateway e DNS.
+
+ DNS                              Traduz nomes como empresa.pt para endereços IP.
+
+ Gateway                          Encaminha tráfego da rede local para outras redes.
+
+ VPN                              Cria um túnel protegido para acesso remoto a recursos autorizados.
+
+ APIPA                            Endereço 169.254.x.x atribuído pelo Windows quando não obtém configuração do DHCP.
+
+ TCP vs UDP                       TCP privilegia entrega ordenada/fiável; UDP reduz overhead e é comum em tempo real.
+
+
+Diagnóstico progressivo: «tenho Wi-Fi, mas não Internet»
+1. Confirmar âmbito e obter configuração com ipconfig /all: IP, máscara, gateway, DNS e DHCP.
+2. Testar 127.0.0.1 e o IP local se houver suspeita da pilha/adaptador.
+3. Testar o gateway. Se falhar, investigar ligação local, Wi-Fi, VLAN, adaptador ou porta.
+4. Testar um IP externo. Se falhar após o gateway, investigar routing, firewall, NAT ou fornecedor.
+5. Testar um nome de domínio e usar nslookup. Se o IP funcionar e o nome não, suspeitar de DNS.
+6. Comparar com outro utilizador/dispositivo e verificar alertas/alterações; corrigir ou escalar com resultados.
+
+Comandos que deves reconhecer
+ Comando                          Hipótese que ajuda a testar
+
+ ipconfig /all                    Configuração recebida, DHCP, gateway e DNS.
+
+ ping                             Alcance e latência básica; não prova sozinho que a aplicação funciona.
+
+ tracert                          Onde o caminho deixa de responder.
+
+ nslookup                         Resolução DNS e servidor consultado.
+
+ arp -a                           Relação local entre endereços IP e MAC.
+
+ route print                      Rotas e gateway usados pelo computador.
+
+ netstat -ano                     Ligações, portas e PID local.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                        p. 11
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                         GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 11
+
+Microsoft 365: cenários prováveis
+Começa sempre por distinguir cliente local, conta, rede e serviço cloud.
+
+
+
+Outlook não envia nem recebe
+1. Âmbito, conectividade e mensagem exata; verificar modo offline e sincronização.
+2. Testar Outlook Web: se funcionar, suspeitar do cliente/perfil local; se não, conta, licença, serviço ou rede.
+3. Confirmar credenciais/MFA, quota, add-ins, atualizações e saúde do Microsoft 365, se houver acesso.
+4. Só reparar ou recriar perfil depois de excluir causas simples e proteger dados locais.
+
+Teams sem áudio ou microfone
+Confirmar dispositivo de entrada/saída no Teams, permissões do Windows, mute físico e volume; fazer chamada
+de teste; testar outro dispositivo; comparar desktop com web; verificar drivers, rede e saúde do serviço se vários
+utilizadores forem afetados.
+
+OneDrive não sincroniza
+Verificar pausa, conta/tenant, espaço, nomes/caminhos/tipos inválidos, ícone e erro do cliente; testar web e
+reiniciar cliente. Antes de desvincular ou fazer reset, proteger ficheiros locais.
+
+Access denied no SharePoint
+Confirmar URL, conta/tenant e recurso; perceber se é site, biblioteca ou ficheiro; verificar grupos, permissões e
+herança. Não conceder acesso sem aprovação do proprietário/responsável; aplicar menor privilégio.
+
+Muitos utilizadores afetados
+Tratar como incidente de maior impacto: correlacionar tickets, confirmar serviços/localizações, verificar rede,
+DNS e service health; comunicar; não alterar individualmente cada PC; escalar como falha de tenant, rede ou
+fornecedor.
+
+  RESPOSTA HONESTA
+   Tenho experiência de suporte em ambientes Windows e com utilizadores/aplicações empresariais. Em Microsoft
+   365 aplicaria este método de isolamento. Onde a operação exigir privilégios ou conhecimento específico do
+   tenant, seguiria os runbooks e escalaria com evidência.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                 p. 12
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                          GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 12
+
+Active Directory, identidade e Intune
+A velocidade nunca justifica saltar autorização ou menor privilégio.
+
+
+
+Reset de password / conta bloqueada
+Verificar identidade pelo procedimento; confirmar se a conta está bloqueada, desativada ou expirada; investigar
+bloqueios recorrentes; fazer reset com permissão adequada; exigir mudança no próximo login quando aplicável;
+nunca enviar credenciais por canal inseguro; validar e documentar.
+
+Novo colaborador
+Começar por pedido aprovado com função, responsável e data; seguir convenção e template; colocar na OU
+correta; atribuir apenas grupos e acessos autorizados; preparar licenças/aplicações/equipamento; validar e
+registar.
+
+Pedido para adicionar a grupo
+Confirmar finalidade, proprietário e aprovação. Só depois alterar; validar acesso e registar quem aprovou, o que
+mudou e quando.
+
+O que sabes sobre Intune?
+Resposta segura
+
+  RESPOSTA EM PORTUGUÊS
+   O Intune é uma plataforma cloud de gestão de endpoints e aplicações. Permite inscrever dispositivos, distribuir
+   aplicações e configurações, aplicar políticas de segurança e conformidade e suportar acesso condicional em
+   conjunto com o Entra ID. Conheço estes conceitos, mas ainda não administrei Intune autonomamente em
+   produção. Perante um dispositivo não conforme, começaria pela política que falhou, estado e sincronização do
+   dispositivo, atribuição ao utilizador e logs, seguindo os procedimentos da organização.
+
+
+  ANSWER IN ENGLISH
+   Intune is a cloud-based endpoint and application management platform. It supports device enrolment,
+   application and configuration deployment, security and compliance policies, and Conditional Access together
+   with Entra ID. I understand these concepts, but I have not yet independently administered Intune in
+   production. For a non-compliant device, I would begin by reviewing the failed policy, device status and
+   synchronisation, user assignment and logs, following the organisation's procedures.
+
+
+
+Conceitos associados
+• MDM: gestão de dispositivos; MAM: gestão/proteção de aplicações e dados.
+• Compliance: dispositivo cumpre requisitos definidos; não é sinónimo de estar totalmente seguro.
+• Conditional Access: decisões de acesso baseadas em identidade, dispositivo, localização, risco e outras
+  condições.
+• Entra ID: serviço cloud de identidade e acesso anteriormente designado Azure AD.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                               p. 13
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                                    GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 13
+
+Segurança, MFA e phishing
+Service Desk é uma linha de defesa: verifica identidade, autorização e evidência.
+
+
+
+O que é MFA?
+Autenticação multifator exige fatores de categorias diferentes, por exemplo password e confirmação numa
+aplicação autenticadora. Reduz a probabilidade de uma password comprometida ser suficiente para entrar.
+
+Utilizador deixou de receber pedidos de MFA
+Verificar identidade; rede, data/hora e notificações do dispositivo; método registado; seguir procedimento de
+re-registo ou método alternativo autorizado. Nunca desativar ou contornar MFA apenas para resolver depressa.
+
+Email suspeito de phishing
+1. Pedir para não clicar, responder ou abrir anexos; preservar a mensagem.
+2. Recolher remetente, assunto, links/cabeçalhos e hora segundo o processo definido.
+3. Se houve interação, confirmar exatamente o que aconteceu e escalar imediatamente para contenção.
+4. Ações possíveis pela equipa autorizada: reset de credenciais, revogação de sessões, bloqueio e análise do
+   dispositivo.
+5. Documentar sem destruir evidência e comunicar os próximos passos ao utilizador.
+
+Princípios a mencionar
+ Princípio                          Aplicação no Service Desk
+
+ Menor privilégio                   Conceder apenas o acesso necessário e aprovado.
+
+ Need-to-know                       Não expor dados ou detalhes a quem não está autorizado.
+
+ Verificação de identidade          Obrigatória antes de resets e alterações sensíveis.
+
+ Defesa em profundidade             Password, MFA, endpoint, rede, monitorização e processos combinados.
+
+ Auditabilidade                     Registar aprovação, alteração, hora, responsável e resultado.
+
+
+  NÃO FAZER
+   Não desativar MFA, não partilhar passwords, não dar privilégios por pedido informal, não apagar evidência de
+   phishing e não instalar software não autorizado.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                        p. 14
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                                       GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 14
+
+Simulação técnica rápida
+Treina cada resposta em 60-90 segundos.
+
+
+ Cenário                                 Resposta em tópicos
+
+ Utilizador sem Internet                 Âmbito -> ipconfig /all -> gateway -> IP externo -> DNS -> comparar -> corrigir/escalar
+                                         -> validar.
+
+ Outlook não sincroniza                  Web vs desktop -> conectividade -> offline/erro -> conta/MFA/quota -> add-ins/saúde
+                                         -> proteção de dados -> repair/escalamento.
+
+ Teams sem microfone                     Dispositivo selecionado -> permissões/mute -> test call -> outro hardware -> web vs
+                                         app -> drivers/rede.
+
+ OneDrive parado                         Conta/tenant -> pausa/quota -> nomes/caminhos -> erro -> web -> reinício ->
+                                         proteger dados antes de reset.
+
+ Conta AD bloqueada                      Verificar identidade -> estado/causa -> autorização -> desbloquear/reset -> não expor
+                                         password -> validar/documentar.
+
+ Dock sem imagem                         Energia/entrada/cabo -> detetar no Windows -> trocar componente -> direto ao portátil
+                                         -> driver/firmware -> isolar.
+
+ Possível phishing                       Não interagir -> preservar -> recolher evidência -> determinar interação ->
+                                         escalar/conter -> documentar.
+
+ Vários utilizadores afetados            Correlacionar e priorizar -> alterações/service health/rede -> comunicação -> evitar
+                                         alterações individuais -> escalamento.
+
+ SLA perto do limite                     Atualizar diagnóstico -> avisar utilizador/responsável -> escalar antes da violação ->
+                                         próximo passo -> nunca aplicar correção insegura.
+
+
+
+Perguntas de aprofundamento que podem seguir
+• Que informação colocarias no ticket?
+• Como distingues um problema local de um incidente geral?
+• Que risco existe antes de recriar um perfil, desvincular o OneDrive ou fazer reset?
+• Quando deixas de investigar e escalas?
+• Como comunicas a um utilizador que ainda não tens solução?
+
+Resposta quando não sabes
+Frase de proteção
+
+  RESPOSTA EM PORTUGUÊS
+   Não tenho segurança suficiente para dar uma resposta exata sem confirmar. Começaria por validar estes
+   pontos, consultaria a documentação e os procedimentos internos e, se existisse impacto ou risco, escalaria com
+   a evidência recolhida.
+
+
+  ANSWER IN ENGLISH
+   I am not confident enough to give an exact answer without verifying it. I would begin by checking these points,
+   consult the documentation and internal procedures and, if there were impact or risk, escalate with the evidence
+   collected.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                                p. 15
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                                    GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 15
+
+Histórias STAR do teu CV
+Escolhe três e preenche hoje com factos concretos. Não inventes métricas.
+
+
+ História                        Situação / tarefa                           Ações e resultado a preparar
+
+ Conectividade na                Incidente real de DHCP, VPN, acesso         Âmbito; configuração; gateway/DNS; comparação;
+ NewCoffee                       remoto ou rede.                             comunicação; escalamento; resultado verdadeiro.
+
+ Preparação de posto             Novo utilizador/equipamento precisava de    Windows; periféricos; conta/grupos aprovados;
+                                 ficar operacional.                          aplicações; rede; impressão; inventário; validação.
+
+ Plataforma ITSM                 Necessidade de organizar tickets, ativos,   Levantamento; fluxos; React/PHP/SQL Server/IIS;
+                                 utilizadores e indicadores.                 o que centralizou ou tornou visível.
+
+ Escalamento a fornecedor        Incidente excedeu acesso ou âmbito          Reproduzir; evidência; utilizadores/equipamentos;
+                                 interno.                                    handoff estruturado; acompanhamento; validação.
+
+ Plataforma da clínica           Incidente ou comportamento a investigar     Logs; testes; causa; correção; validação;
+                                 numa aplicação real.                        documentação. Explicar que foi projeto freelance.
+
+ Projeto IDS                     Projeto académico/internacional de rede     VirtualBox, Kali/Ubuntu, Wireshark, tcpdump,
+                                 e segurança.                                Snort; análise e aprendizagem. Não apresentar
+                                                                             como produção.
+
+
+Folha de preparação - história principal
+
+  S - SITUAÇÃO
+   Onde e quando aconteceu? Quem foi afetado? Qual era o impacto?
+   ________________________________________________
+
+
+  T - TAREFA
+   Qual era a tua responsabilidade e limite de acesso?
+   _________________________________________________________
+
+
+  A - AÇÕES
+   Que perguntas, testes, ferramentas, comunicação e decisões foram teus?
+   ______________________________________
+
+
+  R - RESULTADO
+   O que ficou resolvido/encaminhado? Como validaste? O que aprendeste?
+   _________________________________________
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                           p. 16
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                          GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 16
+
+Prevenção remota 24/7
+Disponibilidade é uma responsabilidade operacional; esclarece as regras antes de aceitar.
+
+
+Tens disponibilidade para prevenção? (usar apenas se for verdade)
+
+  RESPOSTA EM PORTUGUÊS
+   Sim, tenho disponibilidade para integrar uma escala de prevenção remota aproximadamente uma semana por
+   mês. Gostaria de compreender como funciona a rotação, quais são os tempos de resposta, a frequência média
+   de chamadas, o processo de escalamento e a respetiva compensação.
+
+
+  ANSWER IN ENGLISH
+   Yes, I am available to participate in a remote on-call rotation for approximately one week per month. I would
+   like to understand the rotation model, expected response times, average call frequency, escalation process and
+   the applicable compensation.
+
+
+
+Se receberes um alerta crítico de madrugada
+Confirmar identidade/contacto, impacto, âmbito e criticidade; abrir/atualizar incidente; consultar alertas e
+alterações; seguir runbook; executar apenas ações autorizadas e reversíveis; manter cronologia; escalar pela
+matriz; validar recuperação; comunicar e fazer handover/RCA.
+
+Perguntas essenciais
+1. A escala é exatamente uma semana em quatro? De que hora/dia a que hora/dia? Inclui feriados?
+2. Qual é o tempo máximo de resposta e posso circular normalmente enquanto estou de prevenção?
+3. Qual foi a média real de chamadas e intervenções por semana nos últimos três meses?
+4. É sempre remoto ou pode exigir deslocação? Quem suporta custos e qual é o tempo de chegada?
+5. Existe sempre L2/L3 ou gestor disponível para escalamento? Quando começa a escala após o onboarding?
+6. Existe valor fixo por semana? As intervenções são registadas e pagas separadamente? Há mínimo por
+   chamada?
+7. Após uma intervenção noturna, como ajustam a entrada e o descanso no dia seguinte?
+
+Ponto jurídico prudente
+
+   Não existe um subsídio universal fixo para mera disponibilidade remota. Confirma contrato, política interna ou
+   instrumento coletivo. Trabalho efetivamente prestado fora do horário pode enquadrar-se como trabalho
+   suplementar, dependendo das circunstâncias; o descanso diário é normalmente de 11 horas. Isto é orientação
+   geral, não aconselhamento jurídico.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                              p. 17
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                                GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 17
+
+Negociação salarial
+Fala sempre em salário-base bruto anual ou mensal × 14; separa benefícios e prevenção.
+
+
+ Zona                       Valor                          Como usar
+
+ Âncora                     €23.800 brutos/ano (€1.700 ×   Abertura defensável pelo L1/L2, presencialidade e prevenção;
+                            14)                            excluir alimentação e on-call.
+
+ Bom objetivo               €21.000-€22.400                Resultado equilibrado se prevenção for paga separadamente e
+                            (€1.500-€1.600 × 14)           houver bom pacote.
+
+ Piso interno               €19.600 (€1.400 × 14)          Não revelar. Só considerar com prevenção separada, evolução e
+                                                           revisão claras.
+
+ Piso pragmático            €18.200 (€1.300 × 14)          Apenas se o projeto/formação forem muito fortes e as condições
+                                                           de prevenção forem boas.
+
+
+  NOTA
+   Referências públicas para funções júnior de helpdesk/suporte em Portugal apontam frequentemente para cerca
+   de €17k-€22k brutos/ano, mas esta vaga acrescenta L2, presença física e prevenção 24/7. O teu valor pedido
+   deve refletir o âmbito completo.
+
+Se perguntarem expectativas
+
+  RESPOSTA EM PORTUGUÊS
+   Pelo âmbito de primeira e segunda linha, pela componente presencial e pela participação na prevenção, estou a
+   apontar para cerca de 23 a 24 mil euros brutos anuais de salário-base, excluindo o subsídio de alimentação e a
+   compensação da prevenção. Naturalmente, gostaria de compreender o pacote completo e a forma como a
+   escala é remunerada.
+
+
+  ANSWER IN ENGLISH
+   Considering the first- and second-line scope, the on-site component and the on-call rotation, I am targeting a
+   base salary of approximately 23 to 24 thousand euros gross per year, excluding meal allowance and on-call
+   compensation. Naturally, I would like to understand the full package and how the rotation is compensated.
+
+
+Se apresentarem um valor baixo
+
+  RESPOSTA EM PORTUGUÊS
+   Obrigado por partilhar a proposta. Pelo âmbito de primeira e segunda linha e pela responsabilidade da
+   prevenção, o valor fica abaixo da minha expectativa inicial. Existe flexibilidade no salário-base? E a prevenção e
+   as intervenções são remuneradas separadamente? Se o orçamento inicial for fixo, podemos definir por escrito
+   uma revisão ao fim de seis meses com objetivos concretos?
+
+
+  ANSWER IN ENGLISH
+   Thank you for sharing the proposal. Considering the first- and second-line scope and the on-call responsibility,
+   the amount is below my initial expectation. Is there flexibility in the base salary, and are standby and actual
+   interventions paid separately? If the initial budget is fixed, could we define a written six-month salary review
+   based on specific objectives?
+
+
+
+Se te obrigarem a propor a compensação da prevenção
+Podes usar €250 brutos por semana de escala + todas as intervenções registadas e pagas separadamente como
+abertura negocial, ajustando ao tempo de resposta, volume e deslocações. Não o apresentes como direito legal
+nem como referência de mercado robusta; pergunta primeiro qual é a política existente.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                        p. 18
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                         GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 18
+
+Perguntas inteligentes para fazer
+Escolhe 5-7; não transformes o final num interrogatório.
+
+
+
+Função, cliente e equipa
+• Podem explicar o setor, localização e dimensão do cliente ao qual a função ficará alocada?
+• Como se distribui o trabalho entre primeira e segunda linha, e onde começa o escalamento para L3?
+• Quantos utilizadores e localizações são suportados? Quais são os canais e o volume médio de tickets?
+• Quais são as ferramentas de ticketing, gestão remota, inventário e Microsoft usadas no serviço?
+• Quem define prioridades no dia a dia e como é feito o acompanhamento pela Konica Minolta?
+
+Onboarding e sucesso
+• Existe formação inicial e período de shadowing antes de assumir tickets e prevenção?
+• Qual é o nível de autonomia esperado nos primeiros três meses?
+• Quais são os incidentes mais frequentes e os SLAs/KPIs mais importantes?
+• O que significaria ter sucesso nesta função ao fim de seis meses?
+
+Prevenção e condições
+• Como funciona concretamente a semana de prevenção, o escalamento, o volume e a compensação?
+• As intervenções, noites, fins de semana e feriados ficam registados e pagos separadamente?
+• Qual é o intervalo salarial e o pacote de benefícios definido para a posição?
+
+As cinco que não podem faltar
+
+   1) cliente/setor/local; 2) divisão L1/L2 e escalamento; 3) ferramentas e incidentes; 4) onboarding/sucesso aos
+   6 meses; 5) regras e compensação da prevenção.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                              p. 19
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                                   GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 19
+
+Acrónimos e conceitos de revisão
+Consegue explicar cada termo numa frase simples.
+
+
+ Sigla                Significado                           Aplicação
+
+ L1 / L2 / L3         Níveis de suporte                     Triagem/resolução comum -> análise aprofundada ->
+                                                            especialista/fabricante.
+
+ ITSM                 IT Service Management                 Processos e ferramentas para incidentes, pedidos, mudanças,
+                                                            ativos e conhecimento.
+
+ SLA                  Service Level Agreement               Tempos e níveis de resposta/resolução acordados.
+
+ KB                   Knowledge Base                        Artigos reutilizáveis de diagnóstico e resolução.
+
+ RCA                  Root Cause Analysis                   Análise da causa de um incidente para prevenir recorrência.
+
+ KPI                  Key Performance Indicator             Métrica como SLA cumprido, tempo de resposta ou resolução.
+
+ AD                   Active Directory                      Diretório on-premises de identidades, computadores, grupos e
+                                                            políticas.
+
+ Entra ID             Microsoft cloud identity              Identidade e acesso cloud; antigo Azure AD.
+
+ GPO                  Group Policy Object                   Configurações aplicadas a utilizadores/computadores num
+                                                            domínio.
+
+ MFA                  Multi-Factor Authentication           Autenticação com mais de um tipo de fator.
+
+ MDM / MAM            Device / App Management               Gestão de dispositivos e de aplicações/dados.
+
+ TCP/IP               Protocol suite                        Base da comunicação em rede.
+
+ DNS                  Domain Name System                    Nomes para IP.
+
+ DHCP                 Dynamic Host Configuration Protocol   Entrega IP, máscara, gateway e DNS.
+
+ VPN                  Virtual Private Network               Túnel protegido para acesso remoto.
+
+ APIPA                Automatic Private IP Addressing       169.254.x.x quando DHCP falha.
+
+ P1-P4                Prioridades                           Impacto e urgência, não apenas ordem de chegada.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                        p. 20
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                        GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 20
+
+Fecho da entrevista e checklist
+Termina com interesse concreto, não apenas «obrigado».
+
+
+Fecho recomendado
+
+  RESPOSTA EM PORTUGUÊS
+   Obrigado por explicarem melhor a função e o contexto do cliente. A conversa reforçou o meu interesse porque a
+   posição combina suporte a utilizadores, Windows, Microsoft 365, Active Directory, redes e melhoria de
+   processos. Acredito que a minha experiência prática, método de diagnóstico e capacidade de aprendizagem me
+   permitiriam contribuir e evoluir com a equipa. Há algum ponto do meu perfil sobre o qual gostariam que eu
+   esclarecesse ou aprofundasse antes de terminarmos?
+
+
+  ANSWER IN ENGLISH
+   Thank you for explaining the role and client environment in more detail. The conversation has strengthened my
+   interest because the position combines user support, Windows, Microsoft 365, Active Directory, networking and
+   process improvement. I believe my hands-on experience, troubleshooting method and learning ability would
+   allow me to contribute and grow with the team. Is there any aspect of my profile that you would like me to
+   clarify or expand on before we finish?
+
+
+
+Na véspera
+• Escolher e completar três histórias STAR reais.
+• Treinar apresentação de 90 s e 30 s em português e inglês.
+• Rever método universal, Outlook, AD, 169.254, MFA e ticket/SLA.
+• Definir âncora salarial, objetivo e piso privado.
+• Escrever cinco perguntas prioritárias.
+
+30 minutos antes
+• CV, anúncio e este guião abertos; bloco e caneta.
+• Câmara, microfone, ligação e nome de apresentação testados.
+• Água, local silencioso, notificações desligadas e telemóvel em silêncio.
+• Entrar 8-10 minutos antes.
+
+Durante
+• Ouvir até ao fim; pedir clarificação se a pergunta for ambígua.
+• Responder primeiro à pergunta e depois dar contexto; evitar monólogos.
+• Não inventar experiência, números, incidentes ou ferramentas.
+• Anotar cliente, equipa, ferramentas, prevenção, remuneração e próximos passos.
+
+Mensagem final para ti
+
+   Não precisas de parecer sénior. Precisas de mostrar que já sabes apoiar, pensar, comunicar e aprender com
+   responsabilidade. A melhor versão da tua candidatura é técnica, honesta e calma.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                             p. 21
+KONICA MINOLTA | IT SERVICE DESK JUNIOR                                                                   GUIÃO DE ENTREVISTA
+
+
+
+
+GUIÃO 21
+
+Fontes e notas
+Consultadas para contextualizar empresa, salário e prevenção. A decisão final depende da proposta contratual.
+
+1. Konica Minolta Portugal - página principal e áreas de negócio
+https://www.konicaminolta.pt/pt-pt
+
+2. Sobre a Konica Minolta
+https://www.konicaminolta.pt/pt-pt/informacoes-corporativas/sobre-a-konica-minolta
+
+3. Managed IT Services
+https://www.konicaminolta.pt/pt-pt/solucoes-de-it/managed-services
+
+4. Business Process Outsourcing
+https://www.konicaminolta.pt/pt-pt/solucoes-de-it/business-process-outsourcing
+
+5. Gestão de IT, NOC/SOC e suporte
+https://www.konicaminolta.pt/pt-pt/verticais/it
+
+6. Carreiras e desenvolvimento
+https://www.konicaminolta.pt/pt-pt/informacoes-corporativas/carreiras
+
+7. Valores e código de ética
+https://www.konicaminolta.pt/pt-pt/informacoes-corporativas/codigo-de-etica-e-conduta-empresarial
+
+8. Adecco Portugal Salary Guide 2026
+https://www.adecco.com/pt-pt/-/media/project/adecco/adeccopt/pdfs/guia-salarial-2026-en.pdf
+
+9. Adecco SSC Salary Guide 2026
+https://www.adecco.com/pt-pt/-/media/project/adecco/adeccopt/pdfs/guiasalarialssc_2026.pdf
+
+10. Landing.Jobs Tech Talent Trends 2025
+https://campaign.landing.jobs/hubfs/Tech%20Talent%20Trends%20Report%202025.pdf?hsLang=en
+
+11. Código do Trabalho consolidado
+https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34546475
+
+
+
+Este documento foi preparado a partir do anúncio fornecido, da carta de apresentação e do currículo de Miguel Magalhães. Os
+exemplos assinalados como histórias pessoais devem ser completados apenas com factos que o candidato consiga sustentar.
+
+
+
+
+Miguel Magalhães • Entrevista: 15/09/2026 às 11:00                                                                            p. 22
+

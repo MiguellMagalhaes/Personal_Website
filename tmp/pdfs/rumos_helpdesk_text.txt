@@ -1,0 +1,569 @@
+GUIÃO-SÍNTESE • PREPARAÇÃO DE ENTREVISTA
+
+
+
+IT Helpdesk Technician
+Rumos • Matosinhos / Porto • Presencial
+
+
+
+
+  OBJETIVO
+  Demonstrar experiência prática em suporte, Windows, Active Directory, redes, equipamentos, impressoras e
+  atendimento ao utilizador. A tua vantagem não é saber tudo: é investigar com método, comunicar bem,
+  documentar e aprender rapidamente sem comprometer a segurança.
+
+
+
+
+  PRIORIDADE 1                              PRIORIDADE 2                               PRIORIDADE 3
+
+
+  Redes Windows                             Active Directory                           Troubleshooting
+
+
+
+
+Miguel Magalhães
+Engenharia Informática • Redes e Sistemas • Suporte Técnico
+
+Memoriza estruturas e exemplos reais. Não tentes decorar todas as frases palavra por palavra.
+RUMOS | IT HELPDESK TECHNICIAN                                                         GUIÃO-SÍNTESE DE ENTREVISTA
+
+
+
+
+GUIÃO 01
+
+Posicionamento e apresentação
+A mensagem que o entrevistador deve recordar.
+
+
+  A TUA MENSAGEM CENTRAL
+   Tenho formação em Engenharia Informática e Redes e Sistemas, juntamente com experiência prática em
+   suporte a utilizadores, equipamentos Windows, Active Directory, VPN, conectividade, impressão e aplicações
+   empresariais. Trabalho de forma estruturada, comunico claramente, documento as intervenções e sei quando
+   resolver autonomamente ou escalar com evidências.
+
+
+Sobre o requisito dos dois anos
+
+  RESPOSTA HONESTA
+   Embora ainda não tenha dois anos contínuos com o título formal de Helpdesk Technician, acumulei experiência
+   diretamente relacionada na NewCoffee, Staples e no estágio, executando tarefas muito próximas das
+   responsabilidades desta função.
+
+Fala-me um pouco sobre ti / Tell me about yourself
+
+  RESPOSTA EM PORTUGUÊS
+   Sou licenciado em Engenharia Informática e tenho também um CTeSP em Redes e Sistemas Informáticos.
+   Atualmente frequento um mestrado em Cibersegurança e Auditoria de Sistemas, em regime pós-laboral. Na
+   NewCoffee prestei suporte a diferentes departamentos e localizações, trabalhando com equipamentos Windows,
+   Active Directory, contas, permissões, impressão, VPN, DHCP, conectividade e aplicações empresariais. Também
+   preparava equipamentos e articulava incidentes mais complexos com fornecedores externos. Desenvolvi ainda
+   uma plataforma interna de ITSM para tickets, ativos, utilizadores e indicadores. Procuro agora consolidar a
+   minha carreira em Helpdesk e contribuir para um serviço organizado e orientado para o utilizador.
+
+
+  ANSWER IN ENGLISH
+   I hold a Bachelor's degree in Computer Engineering and a higher technical qualification in Computer Networks
+   and Systems. I am currently pursuing a Master's degree in Cybersecurity and Computer Systems Auditing
+   through an evening programme. At NewCoffee, I supported users across different departments and locations,
+   working with Windows devices, Active Directory, accounts, permissions, printing, VPN, DHCP, connectivity and
+   business applications. I also prepared equipment and coordinated more complex incidents with external
+   providers. I am now looking to consolidate my career in IT Helpdesk and contribute to a structured,
+   user-focused service.
+
+
+
+Porque devem contratar-te?
+Porque tenho experiência prática nas principais áreas da função: suporte a utilizadores, Windows, Active
+Directory, equipamentos, impressoras, redes e gestão de pedidos. Sei comunicar com utilizadores não técnicos,
+documentar e acompanhar um problema até à resolução. A plataforma de ITSM que desenvolvi demonstra
+iniciativa e compreensão de tickets, ativos, prioridades e indicadores. Ainda tenho áreas para aprofundar, mas
+possuo boas bases, aprendo rapidamente e não comprometo a segurança para resolver mais depressa.
+
+
+
+
+Miguel Magalhães • Preparação de entrevista                                                                       p. 2
+RUMOS | IT HELPDESK TECHNICIAN                                                                      GUIÃO-SÍNTESE DE ENTREVISTA
+
+
+
+
+GUIÃO 02
+
+Método universal e Active Directory
+Usa este raciocínio em praticamente todos os cenários.
+
+
+ Passo              Ação
+
+ 1                  Confirmar utilizador, equipamento e contacto.
+
+ 2                  Perceber impacto e âmbito: um utilizador, vários ou serviço global?
+
+ 3                  Perguntar quando começou e se houve alterações recentes.
+
+ 4                  Recolher mensagem de erro e tentar reproduzir.
+
+ 5                  Investigar por camadas: físico -> sistema -> rede -> identidade -> aplicação.
+
+ 6                  Fazer uma alteração controlada de cada vez.
+
+ 7                  Validar com o utilizador, documentar e escalar com evidências se necessário.
+
+
+Resposta universal
+
+     Começaria por determinar o âmbito e impacto do incidente. Recolheria a mensagem de erro, alterações
+     recentes e configuração relevante. Depois investigaria por camadas, começando pelo equipamento, sistema
+     operativo, rede, identidade e aplicação. Faria uma alteração controlada de cada vez, validaria o resultado e
+     documentaria os testes e a resolução.
+
+
+Utilizador não consegue iniciar sessão
+Confirmar se é conta local ou de domínio; verificar Caps Lock, nome do domínio, ligação à rede e mensagem
+exata. No Active Directory, confirmar se a conta está bloqueada, desativada ou expirada. Fazer reset apenas
+depois de verificar a identidade e seguir o procedimento.
+
+Novo utilizador
+1. Pedido e aprovação do responsável.
+2. Criar utilizador segundo a convenção e colocar na OU correta.
+3. Adicionar apenas aos grupos autorizados.
+4. Preparar email, licenças, aplicações e computador.
+5. Testar autenticação e acessos; registar equipamento e intervenção.
+
+Conceitos rápidos
+ Conceito                        Explicação
+
+ OU                              Organiza objetos e permite aplicar políticas.
+
+ Grupo                           Atribui acessos e permissões centralmente.
+
+ Conta local                     Existe apenas naquele computador.
+
+ Conta de domínio                É gerida centralmente pelo Active Directory.
+
+ Menor privilégio                Conceder apenas os acessos necessários e aprovados.
+
+
+
+
+Miguel Magalhães • Preparação de entrevista                                                                                p. 3
+RUMOS | IT HELPDESK TECHNICIAN                                                                         GUIÃO-SÍNTESE DE ENTREVISTA
+
+
+
+
+GUIÃO 03
+
+Preparação de PCs e redes Windows
+A área técnica com maior probabilidade de perguntas práticas.
+
+
+
+Checklist de onboarding
+ Fase                          Verificações
+
+ Equipamento                   Estado físico, número de série, carregador, periféricos e inventário.
+
+ Sistema                       Windows, drivers, atualizações, nome do computador e join ao domínio.
+
+ Aplicações                    Microsoft 365, software corporativo, Outlook, VPN e impressoras.
+
+ Segurança                     Políticas aplicadas, acessos aprovados e sem privilégios administrativos desnecessários.
+
+ Validação                     Rede, autenticação, aplicações, áudio, câmara, impressão e registo de entrega.
+
+
+Ordem de diagnóstico de rede
+
+   Camada física -> configuração IP -> conectividade local -> gateway -> Internet -> DNS
+
+
+Comandos essenciais
+ Comando                          Serve para
+
+ ipconfig /all                    Ver IP, máscara, gateway, DNS e servidor DHCP.
+
+ ipconfig /release                Libertar a configuração recebida por DHCP.
+
+ ipconfig /renew                  Solicitar uma nova configuração ao DHCP.
+
+ ipconfig /flushdns               Limpar a cache DNS local.
+
+ ping                             Testar alcance e latência básica.
+
+ tracert                          Ver o caminho até ao destino.
+
+ nslookup                         Testar resolução DNS.
+
+ arp -a                           Ver associações IP/MAC locais.
+
+ netstat -ano                     Ver ligações, portas e PID dos processos.
+
+
+
+
+Miguel Magalhães • Preparação de entrevista                                                                                   p. 4
+RUMOS | IT HELPDESK TECHNICIAN                                                                    GUIÃO-SÍNTESE DE ENTREVISTA
+
+
+
+
+GUIÃO 04
+
+Cenários de rede
+Responde por ordem e explica o que cada teste permite concluir.
+
+
+
+O computador não tem Internet
+
+  RESPOSTA MODELO
+   Primeiro verificaria se afeta apenas aquele utilizador ou vários. Confirmaria cabo ou Wi-Fi e o estado do
+   adaptador. Depois usaria ipconfig /all para verificar IP, máscara, gateway e DNS. Testaria o gateway, depois
+   um IP externo e finalmente um nome de domínio. Assim conseguiria distinguir um problema local, de acesso
+   externo ou de DNS.
+
+
+Perguntas-relâmpago
+ Pergunta                                          Resposta
+
+ O PC recebeu 169.254.x.x                          É APIPA: normalmente não conseguiu obter configuração válida por DHCP.
+
+ Ping a 8.8.8.8 funciona, mas google.com não       A conectividade IP existe; suspeitar de DNS.
+
+ Não consegue fazer ping ao gateway                Investigar ligação física/Wi-Fi, adaptador, configuração IP, VLAN, porta ou
+                                                   rede local.
+
+ Só um utilizador está afetado                     Comparar configuração e equipamento com um utilizador funcional.
+
+ Vários utilizadores estão afetados                Tratar como potencial incidente de infraestrutura e correlacionar tickets.
+
+
+TCP/IP, DNS e DHCP numa frase
+• TCP/IP: conjunto de protocolos que permite comunicação em rede.
+• DHCP: atribui IP, máscara, gateway e DNS automaticamente.
+• DNS: converte nomes como empresa.pt em endereços IP.
+• Gateway: encaminha tráfego da rede local para outras redes.
+
+Wi-Fi versus Ethernet
+Ethernet tende a oferecer maior estabilidade e menor interferência; Wi-Fi depende de sinal, canal, interferência,
+densidade e roaming. Antes de culpar a Internet, distingue ligação ao ponto de acesso da conectividade externa.
+
+  ERRO A EVITAR
+   Não enumeres comandos sem explicar a hipótese que estás a testar. Um ping bem-sucedido não prova que a
+   aplicação ou o serviço estejam operacionais.
+
+
+
+
+Miguel Magalhães • Preparação de entrevista                                                                                     p. 5
+RUMOS | IT HELPDESK TECHNICIAN                                                                          GUIÃO-SÍNTESE DE ENTREVISTA
+
+
+
+
+GUIÃO 05
+
+Impressoras, hardware e backups
+Diagnosticar significa isolar o componente com evidência.
+
+
+
+Impressora de rede não imprime
+Confirmar se afeta um utilizador ou todos; verificar alimentação, papel, consumíveis, erros e estado online;
+confirmar IP e conectividade; analisar fila, impressora predefinida, trabalhos bloqueados, Print Spooler e driver;
+imprimir página de teste; escalar avaria física com evidências.
+
+Hardware - diagnóstico básico
+ Sintoma                               Abordagem
+
+ PC não liga                           Alimentação, carregador, bateria, cabos, indicadores, periféricos e POST.
+
+ Lentidão                              CPU, RAM, disco, processos, atualizações, espaço livre e Event Viewer.
+
+ Monitor sem imagem                    Energia, entrada, cabo, porta, deteção no Windows, driver e teste direto.
+
+ Docking station                       Alimentação, firmware, drivers, cabo e teste com componentes conhecidos.
+
+ Erro de dispositivo                   Device Manager, código de erro, driver, firmware e hardware alternativo.
+
+
+Backups
+ Tipo/conceito                       Definição
+
+ Full                                Copia todos os dados selecionados.
+
+ Incremental                         Copia alterações desde o último backup realizado.
+
+ Diferencial                         Copia alterações desde o último backup completo.
+
+ Regra 3-2-1                         Três cópias, dois suportes diferentes e uma cópia fora do local.
+
+ Restore                             Deve ser testado; backup não validado pode não ser recuperável.
+
+ Redundância                         Melhora disponibilidade, mas não substitui backup.
+
+
+  FRASE FORTE
+   Um backup só é realmente útil quando existe um processo de restauro testado e documentado.
+
+
+
+
+Miguel Magalhães • Preparação de entrevista                                                                                    p. 6
+RUMOS | IT HELPDESK TECHNICIAN                                                                        GUIÃO-SÍNTESE DE ENTREVISTA
+
+
+
+
+GUIÃO 06
+
+Microsoft 365 e VPN
+Distingue sempre conta, cliente local, rede e serviço cloud.
+
+
+
+Outlook não sincroniza
+1. Confirmar conectividade, âmbito e mensagem de erro.
+2. Testar Outlook Web para distinguir cliente local de conta/serviço.
+3. Verificar modo offline, credenciais, MFA, quota e suplementos.
+4. Consultar saúde do serviço, se houver acesso.
+5. Só recriar perfil depois de excluir causas simples e proteger dados locais.
+
+Teams e OneDrive
+ Serviço                     Verificações
+
+ Teams                       Áudio selecionado, permissões, mute físico, test call, web vs aplicação, drivers e rede.
+
+ OneDrive                    Pausa, conta/tenant, espaço, nomes/caminhos inválidos, estado do cliente e versão web.
+
+
+Utilizador não liga à VPN
+ Ordem              Verificação
+
+ 1                  Existe acesso à Internet?
+
+ 2                  Qual é a mensagem de erro?
+
+ 3                  Credenciais, MFA e estado da conta estão corretos?
+
+ 4                  Cliente VPN, configuração, certificado e data/hora estão corretos?
+
+ 5                  DNS, rotas e logs revelam a causa? Outros utilizadores estão afetados?
+
+
+  IMPORTANTE
+     Se utilizares um exemplo de Fortinet, descreve apenas as operações que executaste realmente. Não
+     transformes contacto com a ferramenta em administração avançada.
+
+
+
+
+Miguel Magalhães • Preparação de entrevista                                                                                  p. 7
+RUMOS | IT HELPDESK TECHNICIAN                                                             GUIÃO-SÍNTESE DE ENTREVISTA
+
+
+
+
+GUIÃO 07
+
+Segurança e atendimento
+Helpdesk é uma linha de defesa e também a face do serviço de IT.
+
+
+
+Password num Post-it
+
+  RESPOSTA MODELO
+   Não utilizaria, copiaria nem fotografaria as credenciais. Alertaria o colaborador de forma discreta para o risco,
+   pediria a remoção do Post-it e, conforme a política interna, a alteração da password. Se existisse um
+   procedimento de reporte, seguiria esse procedimento.
+
+
+Possível phishing
+Pedir para não clicar, responder ou abrir anexos; preservar a mensagem; recolher informação e reportar à equipa
+de segurança. Se houve introdução de credenciais, escalar imediatamente para contenção, possível reset,
+revogação de sessões e análise do equipamento.
+
+Utilizador irritado
+Escutar sem interromper, reconhecer o impacto, recolher factos, explicar o que será verificado e evitar prometer
+prazos não garantidos. Manter o utilizador informado até à resolução ou escalamento.
+
+Vários tickets simultâneos
+Priorizar por impacto, urgência, risco, número de utilizadores e SLA. Um incidente generalizado ou de segurança
+tem prioridade sobre um pedido de conveniência individual.
+
+Quando não sabes resolver
+Recolher evidências, consultar documentação e base de conhecimento, executar testes seguros dentro do nível
+de acesso e escalar com contexto. Nunca transferir um ticket vazio.
+
+Princípios
+• Verificar identidade antes de resets ou alterações de acesso.
+• Aplicar menor privilégio e exigir aprovação adequada.
+• Nunca desativar MFA ou controlos de segurança apenas para resolver depressa.
+• Preservar evidências e documentar todas as ações relevantes.
+
+
+
+
+Miguel Magalhães • Preparação de entrevista                                                                            p. 8
+RUMOS | IT HELPDESK TECHNICIAN                                                                       GUIÃO-SÍNTESE DE ENTREVISTA
+
+
+
+
+GUIÃO 08
+
+Histórias STAR do teu percurso
+Preenche com factos e resultados que consigas sustentar.
+
+
+ História                              O que preparar
+
+ Conectividade/VPN                     Quem foi afetado; testes; causa; resolução ou escalamento; validação.
+
+ Preparação de equipamento             Windows, conta, software, acessos, inventário e testes antes da entrega.
+
+ Plataforma ITSM                       Necessidade, fluxos, tickets/ativos/utilizadores e melhoria concreta.
+
+ Escalamento a fornecedor              Evidências recolhidas, handoff, acompanhamento e validação final.
+
+
+Estrutura STAR
+
+  S - SITUAÇÃO
+   Contexto, utilizadores afetados e impacto: ______________________________________________
+
+
+  T - TAREFA
+   A tua responsabilidade e limite de acesso: ______________________________________________
+
+
+  A - AÇÕES
+   Perguntas, testes, ferramentas, comunicação e decisões: __________________________________
+
+
+  R - RESULTADO
+   Resultado verdadeiro, validação e aprendizagem: __________________________________________
+
+
+O que valoriza a resposta
+• Dizer exatamente o que fizeste, não apenas o que a equipa fez.
+• Explicar a lógica por trás dos testes.
+• Demonstrar comunicação, documentação e validação.
+• Não inventar métricas, fabricantes ou tempos de resolução.
+
+
+
+
+Miguel Magalhães • Preparação de entrevista                                                                                 p. 9
+RUMOS | IT HELPDESK TECHNICIAN                                                           GUIÃO-SÍNTESE DE ENTREVISTA
+
+
+
+
+GUIÃO 09
+
+Negociação e perguntas ao entrevistador
+Não aceites por impulso nem transformes o final num interrogatório.
+
+
+
+Se voltarem aos €1.100 brutos
+
+  RESPOSTA
+   Tenho muito interesse no projeto e acredito que existe um bom alinhamento técnico. No entanto, tendo em
+   conta a componente presencial e o conjunto de responsabilidades, gostaria de perceber se existe flexibilidade
+   no salário-base. Caso o orçamento inicial esteja fechado, seria possível acordarmos uma revisão salarial ao fim
+   de seis meses, associada a objetivos concretos?
+
+
+Confirmar sempre
+• Salário-base bruto x 14 e subsídio de alimentação.
+• Seguro de saúde e restantes benefícios.
+• Horário, turnos, deslocações e eventual prevenção.
+• Formação, certificações e plano de progressão.
+• Data, critérios e valor potencial de revisão salarial.
+
+Perguntas para colocares
+1. Qual é a dimensão da equipa e quantos utilizadores/localizações são suportados?
+2. Quais são os incidentes mais frequentes e a ferramenta de ticketing?
+3. Como é feita a divisão entre L1, L2 e fornecedores externos?
+4. Que autonomia esperam nos primeiros três meses? Existe onboarding?
+5. Que tecnologias utilizam para VPN, backups e gestão de equipamentos?
+6. Quais são os SLAs principais e como é avaliado o desempenho?
+7. Existe uma revisão salarial formal depois do período inicial?
+
+
+
+
+Miguel Magalhães • Preparação de entrevista                                                                      p. 10
+RUMOS | IT HELPDESK TECHNICIAN                                                                       GUIÃO-SÍNTESE DE ENTREVISTA
+
+
+
+
+GUIÃO 10
+
+Revisão final e fecho
+O essencial para chegares calmo e preparado.
+
+
+
+Não dizer
+ Evitar                                   Substituir por
+
+ Domino Active Directory                  Tenho experiência com operações de contas, grupos, permissões e acessos.
+
+ Tenho dois anos de Helpdesk              Tenho experiência acumulada diretamente alinhada com a função.
+
+ Reinicio e vejo se resolve               Explicar âmbito, hipótese, teste, validação e documentação.
+
+ Desativo antivírus/MFA                   Seguir procedimento e nunca contornar segurança sem autorização.
+
+ Escalo logo                              Investigar dentro do acesso e escalar com evidências.
+
+ Aceito qualquer salário                  Demonstrar interesse e negociar o pacote com serenidade.
+
+
+Plano de 60 minutos
+ Tempo                        Revisão
+
+ 20 min                       IP, máscara, gateway, DNS, DHCP, APIPA e comandos.
+
+ 15 min                       Active Directory, autenticação e onboarding.
+
+ 10 min                       Impressoras, hardware e backups.
+
+ 10 min                       Outlook, VPN, segurança e utilizadores difíceis.
+
+ 5 min                        Apresentação inicial e perguntas finais.
+
+
+Antes da entrevista
+• CV e anúncio abertos; três histórias STAR e cinco perguntas preparadas.
+• Câmara, microfone e ligação testados; papel, caneta e água.
+• Entrar 8-10 minutos antes e responder com calma.
+
+Frase final
+
+   Obrigado por explicarem melhor a função e o projeto. A conversa reforçou o meu interesse porque as
+   responsabilidades estão alinhadas com a experiência que já adquiri em suporte, sistemas e redes. Acredito que
+   consigo contribuir desde o início e evoluir rapidamente com os processos e tecnologias da equipa.
+
+
+Mensagem para ti
+
+   Não precisas de parecer sénior. Precisas de demonstrar método, honestidade, segurança, comunicação e
+   capacidade de aprendizagem. Responde primeiro à pergunta; depois dá um exemplo real.
+
+
+
+
+Miguel Magalhães • Preparação de entrevista                                                                                p. 11
+

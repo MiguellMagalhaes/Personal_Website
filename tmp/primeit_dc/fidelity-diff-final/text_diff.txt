@@ -1,0 +1,237 @@
+--- a
++++ b
+@@ -1,126 +1,152 @@
+ PROFESSIONAL SKILLS DOCUMENT
+-Davide Alves
+-System Administrator and Data Analyst
+-[13+ YEARS OF EXPERIENCE]
++Miguel Magalhães
++IT Support and Systems Technician
++[1+ YEAR OF DIRECT IT SUPPORT EXPERIENCE]
+ EXPERIENCE SUMMARY
+-SQL Server Analyst with 13 years of experience in developing queries to provide reports for business analysis and data-driven decision making, optimizing existing queries by reducing their execution time and optimizing execution blocks, and maintaining databases through maintenance tasks and backups.
+-Developing reports necessary for presenting results using Crystal Reports.
+-Over these 13 years, I have developed knowledge in the area of ​​Systems and Infrastructure Administration, managing available resources together with an external team and optimizing resources for daily tasks, thus maintaining business continuity, from implementing backup policies and new technologies to support them and provide more stability and security to the entire infrastructure.
+-I acquired skills in maintaining and managing AD, DNS, and DHCP, maintaining virtualization systems in VMware and Hyper-V, also managing and controlling backups in VEEAM and NAKIVO tools, jointly implementing new solutions and improvements to systems and infrastructures, with a view to supporting the company's growth and ensuring the necessary resources, maintaining an organization of the created VMs and replacing VMs to support more services.
+-As a Security Administrator, I learned to manage the Palo Alto Cortex XDR platform as well as Palo Alto Firewalls and the application and creation of policies, thus improving security and always seeking continuous improvement, which is so necessary in terms of security today.
++Computer Engineering graduate and current Master's student in Cybersecurity and Computer Systems Auditing, with more than one year of direct IT support experience and additional practical training in networks, systems and software development.
++At NewCoffee, I provided first-line support to hundreds of users across five locations, handling approximately 20 to 40 daily requests involving Windows devices, hardware, software, accounts, access, printing, connectivity, Microsoft 365, VPN and business applications.
++I have practical experience with Active Directory, incident tracking and escalation, Microsoft SQL Server, SQL queries, IT asset information and technical documentation. I also contributed to an internal ITSM and asset-management platform integrated with SQL Server.
++My experience is complemented by customer-facing technical support at Staples, Python automation and SQL Server work at Aquário Eletrónica, and production web application development. I communicate in English at B2 level and am motivated to progress in L1/L2 and application support.
+ TECHNICAL SKILLS
+ Technologies
+-Level (1–5)
++Level (1-5)
+ Type
+-SQL Server
+-4
++IT Support L1
++3
+ Professional
+-Crystal Reports
+-4
++Incident and Request Management
++3
++Professional
++Windows
++3
++Professional
++Hardware and Peripherals
++3
+ Professional
+ Active Directory
++2
++Professional
++Microsoft 365
++2
++Professional
++Microsoft SQL Server
+ 3
+ Professional
++SQL
++3
++Professional
++TCP/IP
++2
++Academic
+ DNS
+ 2
+-Professional
++Academic
+ DHCP
+ 2
+ Professional
+-OFFICE 365 ADMIN
++VPN
++2
++Professional
++ERP Systems
++2
++Professional
++Python
+ 3
+ Professional
+-PowerShell
++JavaScript
++3
++Professional
++React
++3
++Professional
++PHP
+ 2
+ Professional
+-Cortex XDR
++REST APIs
+ 3
+ Professional
+-Panorama Palo Alto
++Linux
+ 2
+-Professional
+-CISCO SWITCH
+-1
+-Professional
+-CISCO AP’s
+-1
+-Professional
+-Windows Server
+-3
+-Professional
+-Hyper-V
+-1
+-Professional
+-VMWare
+-2
+-Professional
+-VEEAM
+-2
+-Professional
+-NAKIVO
+-2
+-Professional
+-Visual Basic
+-3
+-Student
+-C++
+-3
+-Student
+-Haskell
+-1
+-Student
++Academic
+ PROFESSIONAL EXPERIENCE
+-Têxtil Cães de Pedra – IT System and Data Analyst
+-December 2012 – Current.
+-Context 
+-SQL Server and System Administrator.
++NewCoffee - Indústria Torrefatora de Cafés, S.A. - IT Technician
++November 2025 - July 2026
++Context
++First-line IT support and internal systems support across a multi-site business environment.
+ Activities
+-Administration and preventive and corrective maintenance of the entire IT infrastructure of the group's data center
+-Core management of Windows Server environments, ensuring the availability of Active Directory, DNS, and DHCP
+-Optimization of SQL code and indexes, with up to 50% reduction in query execution time and elimination of blockages
+-Development of stored procedures, automated jobs, dashboards, and operational reports in Crystal Reports
+-Administration of Palo Alto, Cortex XDR, and MDR security solutions Management of cloud and physical infrastructure backups, including Office 365
+-Administration of physical and virtual infrastructure, including servers, storage, backup appliances with immutability, and tape robots
+-Administration of corporate network in Cisco technology, including switches and access points
++Provided first-line support to hundreds of users across five locations, handling approximately 20 to 40 daily requests.
++Diagnosed and resolved hardware, software, account, access, printing, connectivity and business-application incidents.
++Prepared, configured and maintained Windows computers, laptops, printers, mobile devices and peripherals.
++Created and managed user accounts, groups, permissions and access through Active Directory and internal systems.
++Supported Microsoft 365, ERP applications, VPN, telephony, DHCP, remote access and network connectivity.
++Registered, prioritised, documented and followed incidents, escalating complex cases to internal teams or external providers.
++Contributed to an internal ITSM and asset-management platform using web technologies and Microsoft SQL Server.
+ Technologies
+-SQL Server, PowerShell, Crystal Reports, ERP Vanguarda, Windows Server, AD, DNS, DHCP, OFFICE 365, PALO ALTO, CISCO.
+-Amigo Alternativo Informática Unipessoal, Lda – IT TECHNICIAN
+-2011 – 2012
++Windows, Active Directory, Microsoft 365, Microsoft SQL Server, SQL, VPN, DHCP, ERP, React, PHP, JavaScript, Python, IIS, Git
++Clínica Dr. Luís Couto - Freelance Web Developer
++May 2026 - August 2026
+ Context
+-Equipment Repair.
++Development and production delivery of a full-stack appointment-booking platform for a healthcare client.
+ Activities
+-Diagnostics, repair, and advanced hardware maintenance for desktops, notebooks, servers, and workstations.
+-Installation, configuration, and parameterization of corporate operating systems and structured network management.
++Developed a responsive interface using React, TypeScript, Vite and Tailwind CSS.
++Integrated an external clinical API and an internal serverless API for availability and appointment validation.
++Implemented authentication, database operations, form validation, accessibility and responsive behaviour.
++Configured deployment and environment variables in Vercel and diagnosed integration issues through logs and structured testing.
+ Technologies
+-Windows, Office, Testing Software
+-Virtualforum, CRL – PROGRAMMER / SOFTWARE TECHNICIAN
+-2006 – 2009
++React, TypeScript, Vite, Tailwind CSS, REST APIs, Vercel, Git
++ 
++PROFESSIONAL EXPERIENCE
++Staples Portugal, S.A. - IT Support Technician - Part-time
++February 2025 - August 2025
+ Context
+-Software maintenance and development.
++Customer-facing technical support in the EasyTech service area.
+ Activities
+-Development of modules and specialized technical support for enterprise resource planning (ERP) software and helpdesk platforms.
+-Active programming using Microsoft Visual FoxPro 7.0 and 9.0 languages.
++Diagnosed and resolved hardware, software, peripheral and connectivity problems for customers and colleagues.
++Installed and configured applications on Windows devices and validated their correct operation.
++Supported POS terminals and the SRDS application and recorded incidents in the internal platform.
++Explained technical solutions clearly to non-technical users and recommended appropriate technology solutions.
++Escalated unresolved cases with clear notes and followed their progress with the responsible teams.
+ Technologies
+-Visual FoxPro 7.0 and 9.0, Crystal Reports, SQL Server
++Windows, POS, SRDS, Hardware, Peripherals, Incident Management
++Aquário Eletrónica - IT Intern
++February 2024 - July 2024
++Context
++Practical training in automation, databases, business systems and IT infrastructure.
++Activities
++Developed Python scripts for web scraping, data collection and task automation.
++Supported Microsoft SQL Server administration and integration with the Primavera ERP platform.
++Collaborated on local network and computer-systems activities and technical problem analysis.
++Organised technical documentation, planned tasks and prepared weekly activity reports.
++Technologies
++Python, Microsoft SQL Server, SQL, ERP Primavera, Networking
+ EDUCATION / CERTIFICATION
+ Year
+ Training
+ Institution
+-2007 - 2011
+-Computer Engineering
+-University of Minho
+-2002 - 2005
+-Vocational Computer Course
+-CISAVE
++2026 - Current
++M.Sc. Cybersecurity and Computer Systems Auditing
++ISPGAYA
++2023 - 2026
++B.Sc. Computer Engineering - Final grade 15/20
++ISPGAYA
++2021 - 2024
++Higher Professional Technical Course in Computer Networks and Systems - Final grade 16/20
++ISPGAYA
++2026
++Python Essentials 1 and 2; Linux Unhatched
++Cisco Networking Academy
++2025
++Computer Hardware Fundamentals; AI Fundamentals
++Cisco Networking Academy and IBM SkillsBuild
+ LANGUAGE SKILLS
+ Language
+ Understanding
+ Speaking
+ Writing
+ English
+-B1
+-B1
+-B1
++B2
++B2
++B2
+ Portuguese
+ C2
+ C2

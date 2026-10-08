@@ -1,0 +1,128 @@
+PROFESSIONAL SKILLS DOCUMENT
+Davide Alves
+System Administrator and Data Analyst
+[13+ YEARS OF EXPERIENCE]
+EXPERIENCE SUMMARY
+SQL Server Analyst with 13 years of experience in developing queries to provide reports for business analysis and data-driven decision making, optimizing existing queries by reducing their execution time and optimizing execution blocks, and maintaining databases through maintenance tasks and backups.
+Developing reports necessary for presenting results using Crystal Reports.
+Over these 13 years, I have developed knowledge in the area of ​​Systems and Infrastructure Administration, managing available resources together with an external team and optimizing resources for daily tasks, thus maintaining business continuity, from implementing backup policies and new technologies to support them and provide more stability and security to the entire infrastructure.
+I acquired skills in maintaining and managing AD, DNS, and DHCP, maintaining virtualization systems in VMware and Hyper-V, also managing and controlling backups in VEEAM and NAKIVO tools, jointly implementing new solutions and improvements to systems and infrastructures, with a view to supporting the company's growth and ensuring the necessary resources, maintaining an organization of the created VMs and replacing VMs to support more services.
+As a Security Administrator, I learned to manage the Palo Alto Cortex XDR platform as well as Palo Alto Firewalls and the application and creation of policies, thus improving security and always seeking continuous improvement, which is so necessary in terms of security today.
+TECHNICAL SKILLS
+Technologies
+Level (1–5)
+Type
+SQL Server
+4
+Professional
+Crystal Reports
+4
+Professional
+Active Directory
+3
+Professional
+DNS
+2
+Professional
+DHCP
+2
+Professional
+OFFICE 365 ADMIN
+3
+Professional
+PowerShell
+2
+Professional
+Cortex XDR
+3
+Professional
+Panorama Palo Alto
+2
+Professional
+CISCO SWITCH
+1
+Professional
+CISCO AP’s
+1
+Professional
+Windows Server
+3
+Professional
+Hyper-V
+1
+Professional
+VMWare
+2
+Professional
+VEEAM
+2
+Professional
+NAKIVO
+2
+Professional
+Visual Basic
+3
+Student
+C++
+3
+Student
+Haskell
+1
+Student
+PROFESSIONAL EXPERIENCE
+Têxtil Cães de Pedra – IT System and Data Analyst
+December 2012 – Current.
+Context 
+SQL Server and System Administrator.
+Activities
+Administration and preventive and corrective maintenance of the entire IT infrastructure of the group's data center
+Core management of Windows Server environments, ensuring the availability of Active Directory, DNS, and DHCP
+Optimization of SQL code and indexes, with up to 50% reduction in query execution time and elimination of blockages
+Development of stored procedures, automated jobs, dashboards, and operational reports in Crystal Reports
+Administration of Palo Alto, Cortex XDR, and MDR security solutions Management of cloud and physical infrastructure backups, including Office 365
+Administration of physical and virtual infrastructure, including servers, storage, backup appliances with immutability, and tape robots
+Administration of corporate network in Cisco technology, including switches and access points
+Technologies
+SQL Server, PowerShell, Crystal Reports, ERP Vanguarda, Windows Server, AD, DNS, DHCP, OFFICE 365, PALO ALTO, CISCO.
+Amigo Alternativo Informática Unipessoal, Lda – IT TECHNICIAN
+2011 – 2012
+Context
+Equipment Repair.
+Activities
+Diagnostics, repair, and advanced hardware maintenance for desktops, notebooks, servers, and workstations.
+Installation, configuration, and parameterization of corporate operating systems and structured network management.
+Technologies
+Windows, Office, Testing Software
+Virtualforum, CRL – PROGRAMMER / SOFTWARE TECHNICIAN
+2006 – 2009
+Context
+Software maintenance and development.
+Activities
+Development of modules and specialized technical support for enterprise resource planning (ERP) software and helpdesk platforms.
+Active programming using Microsoft Visual FoxPro 7.0 and 9.0 languages.
+Technologies
+Visual FoxPro 7.0 and 9.0, Crystal Reports, SQL Server
+EDUCATION / CERTIFICATION
+Year
+Training
+Institution
+2007 - 2011
+Computer Engineering
+University of Minho
+2002 - 2005
+Vocational Computer Course
+CISAVE
+LANGUAGE SKILLS
+Language
+Understanding
+Speaking
+Writing
+English
+B1
+B1
+B1
+Portuguese
+C2
+C2
+C2
+*A1/A2 Basic user | B1/B2 Independent user | C1/C2 Advanced user.

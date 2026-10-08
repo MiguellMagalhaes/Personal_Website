@@ -1,0 +1,14 @@
+{
+  "a_docx": "/Users/miguelmagalhaes/Downloads/Template DC.docx",
+  "b_docx": "/Users/miguelmagalhaes/Documents/GitHub/Personal_Website/output/docx/Miguel_Magalhaes_Dossier_Competencias_PrimeIT.docx",
+  "pages_a": 4,
+  "pages_b": 5,
+  "changed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "num_changed_pages": 5
+}
